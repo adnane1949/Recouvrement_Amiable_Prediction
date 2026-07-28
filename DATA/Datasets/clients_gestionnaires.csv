@@ -1,0 +1,305 @@
+﻿id_client,specialite,id_gestionnaire,specialisation
+1,Agriculteur,1,Telephonique
+2,Jardinier,1,Telephonique
+3,Fermier,1,Telephonique
+4,Commerçant,1,Telephonique
+5,Fermier,2,Telephonique
+6,Avocat,2,Telephonique
+7,Coiffeur,2,Telephonique
+8,Analyste financier,2,Telephonique
+9,Analyste financier,3,Terrain
+10,Analyste financier,3,Terrain
+11,Infirmier,3,Terrain
+12,Vendeur,3,Terrain
+13,Ingénieur,3,Terrain
+14,Ingénieur,4,Telephonique
+15,Mécanicien,4,Telephonique
+16,Chauffeur,4,Telephonique
+17,Médecin,4,Telephonique
+18,Plombier,4,Telephonique
+19,Architecte,5,Terrain
+20,Commerçant,5,Terrain
+21,Architecte,5,Terrain
+22,Mécanicien,6,Terrain
+23,Peintre en bâtiment,6,Terrain
+24,Mécanicien,6,Terrain
+25,Comptable,6,Terrain
+26,Analyste financier,6,Terrain
+27,Ingénieur,7,Terrain
+28,Consultant,7,Terrain
+29,Comptable,7,Terrain
+30,Commerçant,7,Terrain
+31,Médecin,8,Terrain
+32,Analyste financier,8,Terrain
+33,Peintre en bâtiment,8,Terrain
+34,Avocat,9,Telephonique
+35,Mécanicien,9,Telephonique
+36,Artisan,9,Telephonique
+37,Peintre en bâtiment,10,Telephonique
+38,Ingénieur,10,Telephonique
+39,Analyste financier,10,Telephonique
+40,Chauffeur,10,Telephonique
+41,Avocat,10,Telephonique
+42,Développeur,11,Telephonique
+43,Développeur,11,Telephonique
+44,Consultant,11,Telephonique
+45,Peintre en bâtiment,12,Telephonique
+46,Jardinier,12,Telephonique
+47,Avocat,12,Telephonique
+48,Banquier,13,Telephonique
+49,Enseignant,13,Telephonique
+50,Jardinier,13,Telephonique
+51,Infirmier,14,Terrain
+52,Coiffeur,14,Terrain
+53,Ingénieur,14,Terrain
+54,Ouvrier BTP,14,Terrain
+55,Coiffeur,14,Terrain
+56,Avocat,15,Telephonique
+57,Peintre en bâtiment,15,Telephonique
+58,Ouvrier BTP,15,Telephonique
+59,Plombier,16,Telephonique
+60,Consultant,16,Telephonique
+61,Agriculteur,16,Telephonique
+62,Banquier,16,Telephonique
+63,Commerçant,17,Telephonique
+64,Peintre en bâtiment,17,Telephonique
+65,Agriculteur,17,Telephonique
+66,Fermier,17,Telephonique
+67,Vendeur,17,Telephonique
+68,Enseignant,18,Telephonique
+69,Agriculteur,18,Telephonique
+70,Architecte,18,Telephonique
+71,Enseignant,19,Terrain
+72,Coiffeur,19,Terrain
+73,Vendeur,19,Terrain
+74,Peintre en bâtiment,19,Terrain
+75,Développeur,19,Terrain
+76,Chauffeur,20,Telephonique
+77,Architecte,20,Telephonique
+78,Banquier,20,Telephonique
+79,Électricien,20,Telephonique
+80,Électricien,21,Telephonique
+81,Chauffeur,21,Telephonique
+82,Ingénieur,21,Telephonique
+83,Architecte,22,Telephonique
+84,Chauffeur,22,Telephonique
+85,Enseignant,22,Telephonique
+86,Peintre en bâtiment,23,Terrain
+87,Coiffeur,23,Terrain
+88,Avocat,23,Terrain
+89,Mécanicien,24,Terrain
+90,Comptable,24,Terrain
+91,Fermier,24,Terrain
+92,Ouvrier BTP,24,Terrain
+93,Médecin,24,Terrain
+94,Chauffeur,25,Telephonique
+95,Analyste financier,25,Telephonique
+96,Commerçant,25,Telephonique
+97,Ouvrier BTP,25,Telephonique
+98,Jardinier,25,Telephonique
+99,Artisan,26,Terrain
+100,Plombier,26,Terrain
+101,Infirmier,26,Terrain
+102,Peintre en bâtiment,26,Terrain
+103,Agriculteur,27,Terrain
+104,Architecte,27,Terrain
+105,Mécanicien,27,Terrain
+106,Analyste financier,28,Telephonique
+107,Ingénieur,28,Telephonique
+108,Vendeur,28,Telephonique
+109,Ingénieur,28,Telephonique
+110,Ingénieur,28,Telephonique
+111,Avocat,29,Terrain
+112,Coiffeur,29,Terrain
+113,Vendeur,29,Terrain
+114,Jardinier,29,Terrain
+115,Médecin,29,Terrain
+116,Commerçant,30,Terrain
+117,Ouvrier BTP,30,Terrain
+118,Ouvrier BTP,30,Terrain
+119,Développeur,30,Terrain
+120,Développeur,31,Terrain
+121,Mécanicien,31,Terrain
+122,Analyste financier,31,Terrain
+123,Vendeur,31,Terrain
+124,Artisan,31,Terrain
+125,Électricien,32,Terrain
+126,Artisan,32,Terrain
+127,Jardinier,32,Terrain
+128,Peintre en bâtiment,32,Terrain
+129,Consultant,32,Terrain
+130,Mécanicien,33,Telephonique
+131,Fermier,33,Telephonique
+132,Chauffeur,33,Telephonique
+133,Artisan,33,Telephonique
+134,Commerçant,33,Telephonique
+135,Ouvrier BTP,34,Telephonique
+136,Architecte,34,Telephonique
+137,Développeur,34,Telephonique
+138,Artisan,34,Telephonique
+139,Agriculteur,34,Telephonique
+140,Infirmier,35,Telephonique
+141,Avocat,35,Telephonique
+142,Commerçant,35,Telephonique
+143,Vendeur,36,Telephonique
+144,Ouvrier BTP,36,Telephonique
+145,Commerçant,36,Telephonique
+146,Peintre en bâtiment,37,Telephonique
+147,Jardinier,37,Telephonique
+148,Artisan,37,Telephonique
+149,Développeur,38,Terrain
+150,Infirmier,38,Terrain
+151,Vendeur,38,Terrain
+152,Commerçant,38,Terrain
+153,Développeur,39,Telephonique
+154,Fermier,39,Telephonique
+155,Ingénieur,39,Telephonique
+156,Comptable,39,Telephonique
+157,Analyste financier,40,Telephonique
+158,Agriculteur,40,Telephonique
+159,Agriculteur,40,Telephonique
+160,Ouvrier BTP,41,Terrain
+161,Agriculteur,41,Terrain
+162,Agriculteur,41,Terrain
+163,Agriculteur,41,Terrain
+164,Avocat,42,Telephonique
+165,Peintre en bâtiment,42,Telephonique
+166,Médecin,42,Telephonique
+167,Vendeur,42,Telephonique
+168,Agriculteur,43,Terrain
+169,Avocat,43,Terrain
+170,Fermier,43,Terrain
+171,Analyste financier,43,Terrain
+172,Commerçant,44,Telephonique
+173,Comptable,44,Telephonique
+174,Mécanicien,44,Telephonique
+175,Avocat,44,Telephonique
+176,Commerçant,45,Telephonique
+177,Enseignant,45,Telephonique
+178,Agriculteur,45,Telephonique
+179,Médecin,45,Telephonique
+180,Enseignant,45,Telephonique
+181,Médecin,46,Terrain
+182,Ingénieur,46,Terrain
+183,Mécanicien,46,Terrain
+184,Coiffeur,47,Terrain
+185,Artisan,47,Terrain
+186,Fermier,47,Terrain
+187,Mécanicien,47,Terrain
+188,Avocat,47,Terrain
+189,Banquier,48,Telephonique
+190,Fermier,48,Telephonique
+191,Ouvrier BTP,48,Telephonique
+192,Artisan,48,Telephonique
+193,Jardinier,48,Telephonique
+194,Agriculteur,49,Telephonique
+195,Artisan,49,Telephonique
+196,Chauffeur,49,Telephonique
+197,Peintre en bâtiment,49,Telephonique
+198,Ingénieur,50,Telephonique
+199,Médecin,50,Telephonique
+200,Jardinier,50,Telephonique
+201,Jardinier,51,Terrain
+202,Vendeur,51,Terrain
+203,Enseignant,51,Terrain
+204,Médecin,51,Terrain
+205,Avocat,52,Telephonique
+206,Artisan,52,Telephonique
+207,Chauffeur,52,Telephonique
+208,Architecte,53,Telephonique
+209,Comptable,53,Telephonique
+210,Peintre en bâtiment,53,Telephonique
+211,Médecin,53,Telephonique
+212,Analyste financier,53,Telephonique
+213,Consultant,54,Terrain
+214,Développeur,54,Terrain
+215,Agriculteur,54,Terrain
+216,Chauffeur,54,Terrain
+217,Peintre en bâtiment,54,Terrain
+218,Coiffeur,55,Telephonique
+219,Artisan,55,Telephonique
+220,Commerçant,55,Telephonique
+221,Agriculteur,55,Telephonique
+222,Médecin,55,Telephonique
+223,Analyste financier,56,Telephonique
+224,Électricien,56,Telephonique
+225,Agriculteur,56,Telephonique
+226,Chauffeur,56,Telephonique
+227,Chauffeur,56,Telephonique
+228,Ouvrier BTP,57,Telephonique
+229,Avocat,57,Telephonique
+230,Commerçant,57,Telephonique
+231,Développeur,58,Terrain
+232,Architecte,58,Terrain
+233,Artisan,58,Terrain
+234,Plombier,58,Terrain
+235,Peintre en bâtiment,59,Terrain
+236,Agriculteur,59,Terrain
+237,Vendeur,59,Terrain
+238,Médecin,60,Terrain
+239,Commerçant,60,Terrain
+240,Médecin,60,Terrain
+241,Agriculteur,61,Terrain
+242,Architecte,61,Terrain
+243,Coiffeur,61,Terrain
+244,Enseignant,61,Terrain
+245,Mécanicien,62,Telephonique
+246,Mécanicien,62,Telephonique
+247,Électricien,62,Telephonique
+248,Consultant,62,Telephonique
+249,Infirmier,63,Terrain
+250,Ingénieur,63,Terrain
+251,Coiffeur,63,Terrain
+252,Enseignant,64,Telephonique
+253,Banquier,64,Telephonique
+254,Ouvrier BTP,64,Telephonique
+255,Électricien,64,Telephonique
+256,Fermier,64,Telephonique
+257,Artisan,65,Telephonique
+258,Plombier,65,Telephonique
+259,Banquier,65,Telephonique
+260,Avocat,65,Telephonique
+261,Chauffeur,66,Telephonique
+262,Coiffeur,66,Telephonique
+263,Artisan,66,Telephonique
+264,Jardinier,66,Telephonique
+265,Développeur,66,Telephonique
+266,Artisan,67,Terrain
+267,Analyste financier,67,Terrain
+268,Enseignant,67,Terrain
+269,Mécanicien,67,Terrain
+270,Chauffeur,67,Terrain
+271,Coiffeur,68,Terrain
+272,Analyste financier,68,Terrain
+273,Avocat,68,Terrain
+274,Peintre en bâtiment,68,Terrain
+275,Fermier,68,Terrain
+276,Chauffeur,69,Telephonique
+277,Développeur,69,Telephonique
+278,Comptable,69,Telephonique
+279,Enseignant,69,Telephonique
+280,Consultant,70,Terrain
+281,Comptable,70,Terrain
+282,Banquier,70,Terrain
+283,Plombier,70,Terrain
+284,Vendeur,71,Telephonique
+285,Banquier,71,Telephonique
+286,Artisan,71,Telephonique
+287,Mécanicien,71,Telephonique
+288,Peintre en bâtiment,71,Telephonique
+289,Plombier,72,Telephonique
+290,Médecin,72,Telephonique
+291,Consultant,72,Telephonique
+292,Consultant,72,Telephonique
+293,Architecte,73,Terrain
+294,Fermier,73,Terrain
+295,Comptable,73,Terrain
+296,Agriculteur,73,Terrain
+297,Développeur,73,Terrain
+298,Peintre en bâtiment,74,Telephonique
+299,Développeur,74,Telephonique
+300,Consultant,74,Telephonique
+301,Avocat,74,Telephonique
+302,Médecin,75,Terrain
+303,Artisan,75,Terrain
+304,Développeur,75,Terrain

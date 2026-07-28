@@ -1,0 +1,305 @@
+﻿id_dette,id_client,nom,prenom,specialite,adresse,ville,region,montant_initial,montant_restant,mensualite,date_debut,date_echeance,taux_interet,type_credit,revenu_mensuel,taux_endettement,nb_retards,jours_retard,score_credit,statut_dette,statut_paiement
+1,1,Hernandez,Louis,Agriculteur,"138 Boulevard Anfa, Marrakech",Marrakech,Marrakech-Safi,264208,78334,11008.67,2024-01-01,2028-01-01,6.57,Immobilier,11920,92.4,6,89,546,En retard,Non payé
+2,2,Bonnin,Sophie,Jardinier,"149 Avenue des FAR, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,191171,13678,7965.46,2024-01-01,2028-01-01,4.24,Auto,17847,44.6,4,128,620,En retard,Non payé
+3,3,Michel,Françoise,Fermier,"81 Rue Allal Ben Abdellah, Tétouan",Tétouan,Tanger-Tétouan-Al Hoceïma,253570,229145,7043.61,2024-01-01,2028-01-01,5.48,Immobilier,6498,108.4,5,176,561,En retard,Non payé
+4,4,Leroy,Henri,Commerçant,"148 Avenue Hassan II, Rabat",Rabat,Rabat-Salé-Kénitra,178747,163076,2979.12,2024-01-01,2028-01-01,6.56,Immobilier,26562,11.2,5,100,571,En retard,Non payé
+5,5,Dupont,Jean-Pierre,Fermier,"138 Avenue Hassan II, Agadir",Agadir,Souss-Massa,101511,22476,2819.75,2024-01-01,2028-01-01,3.67,Professionnel,13573,20.8,8,169,497,En retard,Non payé
+6,6,Thomas,Véronique,Avocat,"81 Boulevard Mohammed VI, Rabat",Rabat,Rabat-Salé-Kénitra,221985,60800,6166.25,2024-01-01,2028-01-01,4.57,Auto,17970,34.3,7,122,486,En retard,Non payé
+7,7,Fournier,Martine,Coiffeur,"105 Boulevard Anfa, Kénitra",Kénitra,Rabat-Salé-Kénitra,135831,68696,2263.85,2024-01-01,2028-01-01,5.95,Professionnel,24238,9.3,5,114,551,En retard,Non payé
+8,8,Wilson,Michel,Analyste financier,"50 Rue Allal Ben Abdellah, Fès",Fès,Fès-Meknès,193657,179110,3227.62,2024-01-01,2028-01-01,5.59,Professionnel,23893,13.5,1,58,725,En retard,Payé
+9,9,Vincent,Véronique,Analyste financier,"146 Avenue des FAR, Kénitra",Kénitra,Rabat-Salé-Kénitra,183703,97632,3827.15,2024-01-01,2028-01-01,4.48,Auto,11463,33.4,8,91,488,En retard,Non payé
+10,10,Fournier,Nathalie,Analyste financier,"54 Rue Allal Ben Abdellah, Rabat",Rabat,Rabat-Salé-Kénitra,230049,75194,9585.38,2024-01-01,2028-01-01,8.36,Professionnel,11085,86.5,7,97,493,En retard,Non payé
+11,11,Dubois,Bernard,Infirmier,"114 Rue Ghandi, Kénitra",Kénitra,Rabat-Salé-Kénitra,151792,135641,4216.44,2024-01-01,2028-01-01,6.25,Personnel,25440,16.6,2,82,698,En retard,Payé
+12,12,Rodriguez,Suzanne,Vendeur,"44 Boulevard Mohammed VI, Kénitra",Kénitra,Rabat-Salé-Kénitra,130981,70420,5457.54,2024-01-01,2028-01-01,8.64,Professionnel,20708,26.4,4,168,607,En retard,Non payé
+13,13,Jackson,André,Ingénieur,"24 Avenue Hassan II, Kénitra",Kénitra,Rabat-Salé-Kénitra,63169,26344,1052.82,2024-01-01,2028-01-01,8.66,Immobilier,29103,3.6,2,15,651,En retard,Payé
+14,14,Mercier,Michel,Ingénieur,"7 Avenue Mohammed V, Safi",Safi,Marrakech-Safi,39591,2611,824.81,2024-01-01,2028-01-01,8.51,Professionnel,13131,6.3,2,179,657,En retard,Payé
+15,15,Lefevre,Bernard,Mécanicien,"107 Avenue Hassan II, Tétouan",Tétouan,Tanger-Tétouan-Al Hoceïma,151534,35485,6313.92,2024-01-01,2028-01-01,3.0,Auto,25545,24.7,3,99,634,En retard,Non payé
+16,16,Martinez,Louis,Chauffeur,"63 Boulevard Zerktouni, Agadir",Agadir,Souss-Massa,265189,9113,11049.54,2024-01-01,2028-01-01,7.53,Immobilier,8112,136.2,5,72,559,En retard,Non payé
+17,17,Blanc,Paul,Médecin,"109 Avenue Hassan II, Casablanca",Casablanca,Casablanca-Settat,134153,87863,3726.47,2024-01-01,2028-01-01,6.54,Personnel,15095,24.7,2,73,709,En retard,Payé
+18,18,David,Marie,Plombier,"143 Avenue Hassan II, Kénitra",Kénitra,Rabat-Salé-Kénitra,264655,57838,4410.92,2024-01-01,2028-01-01,5.77,Professionnel,6139,71.9,8,93,489,En retard,Non payé
+19,19,Lopez,Monique,Architecte,"82 Rue Ghandi, Safi",Safi,Marrakech-Safi,128085,67384,2134.75,2024-01-01,2028-01-01,7.85,Auto,20740,10.3,1,67,694,En retard,Payé
+20,20,Wilson,Bernard,Commerçant,"41 Rue Ghandi, Safi",Safi,Marrakech-Safi,293061,126392,12210.88,2024-01-01,2028-01-01,7.3,Personnel,9651,126.5,5,44,589,En retard,Non payé
+21,21,Berger,Paul,Architecte,"134 Rue Ghandi, Marrakech",Marrakech,Marrakech-Safi,106462,84148,4435.92,2024-01-01,2028-01-01,4.73,Immobilier,7992,55.5,5,140,583,En retard,Non payé
+22,22,Lefevre,Denis,Mécanicien,"74 Avenue Hassan II, Safi",Safi,Marrakech-Safi,17493,10945,364.44,2024-01-01,2028-01-01,5.03,Professionnel,10821,3.4,4,177,628,En retard,Non payé
+23,23,Gonzalez,Pierre,Peintre en bâtiment,"36 Boulevard Zerktouni, Safi",Safi,Marrakech-Safi,30154,9654,1256.42,2024-01-01,2028-01-01,5.58,Immobilier,12487,10.1,0,0,752,En cours,Payé
+24,24,Lambert,Pierre,Mécanicien,"107 Rue Allal Ben Abdellah, Marrakech",Marrakech,Marrakech-Safi,141812,46939,3939.22,2024-01-01,2028-01-01,5.52,Auto,28792,13.7,8,57,455,En retard,Non payé
+25,25,Laurent,Marie,Comptable,"53 Rue Allal Ben Abdellah, Safi",Safi,Marrakech-Safi,261946,133775,10914.42,2024-01-01,2028-01-01,7.53,Professionnel,4179,261.2,2,34,669,En retard,Non payé
+26,26,Anderson,Louis,Analyste financier,"123 Avenue Mohammed V, Marrakech",Marrakech,Marrakech-Safi,35335,7448,736.15,2024-01-01,2028-01-01,8.0,Immobilier,26788,2.7,6,130,536,En retard,Non payé
+27,27,Gonzalez,Jeanne,Ingénieur,"140 Avenue Hassan II, Safi",Safi,Marrakech-Safi,112068,111520,1867.8,2024-01-01,2028-01-01,7.46,Auto,24488,7.6,4,77,580,En retard,Non payé
+28,28,Michel,Nicole,Consultant,"8 Rue Allal Ben Abdellah, Safi",Safi,Marrakech-Safi,179365,11916,4982.36,2024-01-01,2028-01-01,3.91,Personnel,25002,19.9,8,168,462,En retard,Non payé
+29,29,Roux,Daniel,Comptable,"120 Boulevard Zerktouni, Safi",Safi,Marrakech-Safi,259212,48724,4320.2,2024-01-01,2028-01-01,5.03,Professionnel,9810,44.0,3,151,617,En retard,Non payé
+30,30,Simon,Jacques,Commerçant,"145 Avenue Mohammed V, Marrakech",Marrakech,Marrakech-Safi,153965,79561,4276.81,2024-01-01,2028-01-01,7.97,Professionnel,8060,53.1,5,94,603,En retard,Non payé
+31,31,David,Sophie,Médecin,"13 Avenue des FAR, Fès",Fès,Fès-Meknès,260768,109619,5432.67,2024-01-01,2028-01-01,8.33,Immobilier,4525,120.1,4,136,614,En retard,Non payé
+32,32,David,André,Analyste financier,"87 Rue Allal Ben Abdellah, Fès",Fès,Fès-Meknès,264857,236276,11035.71,2024-01-01,2028-01-01,3.67,Auto,14242,77.5,1,111,704,En retard,Non payé
+33,33,Rousseau,Nicole,Peintre en bâtiment,"5 Boulevard Abdelmoumen, Meknès",Meknès,Fès-Meknès,180505,143355,3008.42,2024-01-01,2028-01-01,3.75,Auto,26648,11.3,3,122,629,En retard,Non payé
+34,34,Lefevre,Paul,Avocat,"11 Avenue Mohammed V, Oujda",Oujda,L'Oriental,237373,14234,6593.69,2024-01-01,2028-01-01,4.62,Immobilier,4874,135.3,8,37,483,En retard,Non payé
+35,35,Durand,Véronique,Mécanicien,"40 Avenue Hassan II, Nador",Nador,L'Oriental,189883,155935,5274.53,2024-01-01,2028-01-01,4.39,Professionnel,29571,17.8,1,82,704,En retard,Payé
+36,36,Garnier,Jacques,Artisan,"56 Rue Ghandi, Oujda",Oujda,L'Oriental,199945,190256,5554.03,2024-01-01,2028-01-01,5.03,Auto,13721,40.5,4,7,595,En retard,Non payé
+37,37,Moore,Véronique,Peintre en bâtiment,"30 Boulevard Zerktouni, Salé",Salé,Rabat-Salé-Kénitra,91347,18941,3806.12,2024-01-01,2028-01-01,3.34,Professionnel,13303,28.6,3,59,673,En retard,Non payé
+38,38,Durand,Marguerite,Ingénieur,"80 Rue Allal Ben Abdellah, Tétouan",Tétouan,Tanger-Tétouan-Al Hoceïma,258640,234424,4310.67,2024-01-01,2028-01-01,6.34,Immobilier,23832,18.1,7,127,498,En retard,Non payé
+39,39,Lefevre,Jacques,Analyste financier,"63 Boulevard Mohammed VI, Tanger",Tanger,Tanger-Tétouan-Al Hoceïma,242620,17742,5054.58,2024-01-01,2028-01-01,7.33,Professionnel,20963,24.1,2,21,676,En retard,Payé
+40,40,Moore,Suzanne,Chauffeur,"31 Avenue Mohammed V, Nador",Nador,L'Oriental,109773,7839,3049.25,2024-01-01,2028-01-01,4.46,Professionnel,17231,17.7,2,137,677,En retard,Payé
+41,41,Richard,Pierre,Avocat,"130 Boulevard Anfa, Agadir",Agadir,Souss-Massa,161294,102839,6720.58,2024-01-01,2028-01-01,8.94,Professionnel,14573,46.1,8,80,460,En retard,Non payé
+42,42,Michel,Françoise,Développeur,"118 Boulevard Zerktouni, Rabat",Rabat,Rabat-Salé-Kénitra,74737,49222,1245.62,2024-01-01,2028-01-01,3.74,Immobilier,27288,4.6,0,0,777,En cours,Payé
+43,43,Lopez,François,Développeur,"70 Boulevard Abdelmoumen, El Jadida",El Jadida,Casablanca-Settat,71561,52387,1490.85,2024-01-01,2028-01-01,8.55,Auto,9824,15.2,8,79,464,En retard,Non payé
+44,44,Taylor,Philippe,Consultant,"83 Avenue Hassan II, Agadir",Agadir,Souss-Massa,221408,148833,6150.22,2024-01-01,2028-01-01,3.42,Auto,11447,53.7,0,0,762,En cours,Non payé
+45,45,David,Jacques,Peintre en bâtiment,"98 Boulevard Anfa, Tanger",Tanger,Tanger-Tétouan-Al Hoceïma,28820,26740,480.33,2024-01-01,2028-01-01,7.43,Auto,10400,4.6,4,153,597,En retard,Non payé
+46,46,Dubois,Sophie,Jardinier,"125 Avenue Hassan II, Nador",Nador,L'Oriental,229740,116232,3829.0,2024-01-01,2028-01-01,6.02,Auto,19151,20.0,4,41,635,En retard,Non payé
+47,47,Berger,Henri,Avocat,"71 Boulevard Abdelmoumen, Marrakech",Marrakech,Marrakech-Safi,151708,31628,4214.11,2024-01-01,2028-01-01,4.11,Immobilier,13289,31.7,5,21,595,En retard,Non payé
+48,48,Renaud,Jeanne,Banquier,"105 Rue Ghandi, Rabat",Rabat,Rabat-Salé-Kénitra,172485,63582,4791.25,2024-01-01,2028-01-01,6.88,Auto,7013,68.3,8,179,446,En retard,Non payé
+49,49,Rodriguez,François,Enseignant,"126 Rue Ghandi, El Jadida",El Jadida,Casablanca-Settat,246102,39640,10254.25,2024-01-01,2028-01-01,8.52,Professionnel,18412,55.7,8,77,445,En retard,Non payé
+50,50,Girard,Louis,Jardinier,"63 Avenue des FAR, Fès",Fès,Fès-Meknès,245227,208115,5108.9,2024-01-01,2028-01-01,5.0,Professionnel,28291,18.1,2,96,666,En retard,Payé
+51,51,Wilson,Jean-Pierre,Infirmier,"89 Rue Allal Ben Abdellah, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,43262,6240,721.03,2024-01-01,2028-01-01,8.87,Auto,23884,3.0,5,130,589,En retard,Non payé
+52,52,Robert,Denis,Coiffeur,"117 Avenue des FAR, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,145899,138529,6079.12,2024-01-01,2028-01-01,5.69,Personnel,23919,25.4,8,83,475,En retard,Non payé
+53,53,Garnier,Jeanne,Ingénieur,"50 Boulevard Anfa, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,77694,54978,2158.17,2024-01-01,2028-01-01,3.62,Personnel,25233,8.6,2,9,694,En retard,Payé
+54,54,Mercier,Alain,Ouvrier BTP,"124 Avenue des FAR, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,19009,7704,316.82,2024-01-01,2028-01-01,7.56,Immobilier,12523,2.5,6,152,516,En retard,Non payé
+55,55,Blanc,Daniel,Coiffeur,"50 Avenue des FAR, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,213312,84152,8888.0,2024-01-01,2028-01-01,6.85,Auto,28674,31.0,0,0,746,En cours,Payé
+56,56,Dupont,Denis,Avocat,"137 Boulevard Zerktouni, Fès",Fès,Fès-Meknès,75139,34198,1252.32,2024-01-01,2028-01-01,4.25,Auto,20954,6.0,7,32,485,En retard,Non payé
+57,57,Wilson,Nathalie,Peintre en bâtiment,"33 Rue Ghandi, Casablanca",Casablanca,Casablanca-Settat,34017,2763,708.69,2024-01-01,2028-01-01,3.47,Personnel,27513,2.6,5,35,570,En retard,Non payé
+58,58,Lacroix,Nicole,Ouvrier BTP,"123 Rue Ghandi, Tétouan",Tétouan,Tanger-Tétouan-Al Hoceïma,16175,7366,673.96,2024-01-01,2028-01-01,7.95,Personnel,25724,2.6,3,77,618,En retard,Non payé
+59,59,Rodriguez,Isabelle,Plombier,"17 Rue Allal Ben Abdellah, Fès",Fès,Fès-Meknès,255737,201473,5327.85,2024-01-01,2028-01-01,4.47,Auto,7817,68.2,0,0,741,En cours,Non payé
+60,60,Moreau,Michel,Consultant,"39 Avenue des FAR, Tétouan",Tétouan,Tanger-Tétouan-Al Hoceïma,43411,7532,1205.86,2024-01-01,2028-01-01,6.74,Personnel,21425,5.6,2,46,682,En retard,Payé
+61,61,Wilson,Paul,Agriculteur,"107 Avenue Hassan II, Rabat",Rabat,Rabat-Salé-Kénitra,208495,84645,4343.65,2024-01-01,2028-01-01,6.62,Personnel,17334,25.1,6,7,556,En retard,Non payé
+62,62,Garcia,Nathalie,Banquier,"110 Avenue des FAR, Meknès",Meknès,Fès-Meknès,256754,130724,4279.23,2024-01-01,2028-01-01,4.51,Personnel,27142,15.8,3,90,659,En retard,Non payé
+63,63,Blanc,Paul,Commerçant,"54 Avenue Hassan II, Tétouan",Tétouan,Tanger-Tétouan-Al Hoceïma,131048,80513,3640.22,2024-01-01,2028-01-01,6.7,Immobilier,15402,23.6,0,0,772,En cours,Payé
+64,64,Roux,Catherine,Peintre en bâtiment,"45 Boulevard Abdelmoumen, Rabat",Rabat,Rabat-Salé-Kénitra,57193,30484,953.22,2024-01-01,2028-01-01,7.4,Professionnel,6448,14.8,7,92,524,En retard,Non payé
+65,65,Laurent,Bernard,Agriculteur,"121 Avenue des FAR, Casablanca",Casablanca,Casablanca-Settat,80724,37716,3363.5,2024-01-01,2028-01-01,4.96,Auto,13001,25.9,1,33,722,En retard,Payé
+66,66,Lacroix,Denis,Fermier,"117 Boulevard Mohammed VI, Fès",Fès,Fès-Meknès,205189,140741,8549.54,2024-01-01,2028-01-01,5.35,Auto,13584,62.9,3,105,661,En retard,Non payé
+67,67,Bonnin,Suzanne,Vendeur,"51 Rue Allal Ben Abdellah, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,292734,289819,12197.25,2024-01-01,2028-01-01,4.19,Personnel,7109,171.6,5,58,567,En retard,Non payé
+68,68,Moulin,Marguerite,Enseignant,"69 Boulevard Zerktouni, Oujda",Oujda,L'Oriental,29774,2818,1240.58,2024-01-01,2028-01-01,3.73,Auto,27949,4.4,7,137,485,En retard,Non payé
+69,69,Fournier,Véronique,Agriculteur,"146 Avenue des FAR, Salé",Salé,Rabat-Salé-Kénitra,173369,54903,7223.71,2024-01-01,2028-01-01,7.76,Professionnel,15412,46.9,5,178,566,En retard,Non payé
+70,70,Fournier,Denis,Architecte,"104 Avenue des FAR, Meknès",Meknès,Fès-Meknès,21434,18093,595.39,2024-01-01,2028-01-01,8.73,Professionnel,27084,2.2,4,118,623,En retard,Non payé
+71,71,Rousseau,Véronique,Enseignant,"11 Rue Allal Ben Abdellah, Safi",Safi,Marrakech-Safi,105020,16452,1750.33,2024-01-01,2028-01-01,4.73,Professionnel,18275,9.6,8,106,464,En retard,Non payé
+72,72,Durand,Pierre,Coiffeur,"59 Avenue Mohammed V, Safi",Safi,Marrakech-Safi,280110,181184,11671.25,2024-01-01,2028-01-01,4.27,Auto,10266,113.7,7,38,493,En retard,Non payé
+73,73,Vincent,Nicole,Vendeur,"133 Rue Ghandi, Marrakech",Marrakech,Marrakech-Safi,243854,98848,4064.23,2024-01-01,2028-01-01,7.63,Personnel,24407,16.7,3,74,624,En retard,Non payé
+74,74,Martinez,Pierre,Peintre en bâtiment,"121 Boulevard Anfa, Safi",Safi,Marrakech-Safi,262314,165348,10929.75,2024-01-01,2028-01-01,4.39,Immobilier,28237,38.7,4,134,615,En retard,Non payé
+75,75,Blanc,Madeleine,Développeur,"42 Boulevard Anfa, Safi",Safi,Marrakech-Safi,184122,35158,5114.5,2024-01-01,2028-01-01,3.31,Immobilier,18941,27.0,6,39,512,En retard,Non payé
+76,76,Simon,Daniel,Chauffeur,"141 Avenue Mohammed V, Fès",Fès,Fès-Meknès,96462,38025,2679.5,2024-01-01,2028-01-01,6.98,Auto,29546,9.1,7,85,481,En retard,Non payé
+77,77,Bonnin,André,Architecte,"30 Rue Allal Ben Abdellah, Marrakech",Marrakech,Marrakech-Safi,146610,135993,4072.5,2024-01-01,2028-01-01,3.02,Professionnel,25304,16.1,6,39,513,En retard,Non payé
+78,78,Gonzalez,Bernard,Banquier,"106 Avenue Mohammed V, Oujda",Oujda,L'Oriental,63054,34658,2627.25,2024-01-01,2028-01-01,8.23,Auto,12461,21.1,1,160,743,En retard,Payé
+79,79,Jackson,Paul,Électricien,"128 Rue Ghandi, Marrakech",Marrakech,Marrakech-Safi,271537,9236,11314.04,2024-01-01,2028-01-01,8.16,Immobilier,5498,205.8,6,23,510,En retard,Non payé
+80,80,Faure,Marguerite,Électricien,"74 Rue Ghandi, Kénitra",Kénitra,Rabat-Salé-Kénitra,90154,38468,1878.21,2024-01-01,2028-01-01,4.1,Immobilier,19919,9.4,5,77,575,En retard,Non payé
+81,81,Durand,François,Chauffeur,"62 Boulevard Zerktouni, Rabat",Rabat,Rabat-Salé-Kénitra,205416,11081,4279.5,2024-01-01,2028-01-01,3.55,Auto,27555,15.5,8,177,470,En retard,Non payé
+82,82,Wilson,Christine,Ingénieur,"24 Avenue Hassan II, Casablanca",Casablanca,Casablanca-Settat,199307,34089,8304.46,2024-01-01,2028-01-01,6.66,Professionnel,23084,36.0,4,175,600,En retard,Non payé
+83,83,Moulin,Nicole,Architecte,"75 Boulevard Abdelmoumen, Oujda",Oujda,L'Oriental,43674,10934,1819.75,2024-01-01,2028-01-01,5.16,Immobilier,10740,16.9,8,67,440,En retard,Non payé
+84,84,Rodriguez,Nicole,Chauffeur,"63 Rue Ghandi, Agadir",Agadir,Souss-Massa,60751,21539,1012.52,2024-01-01,2028-01-01,7.42,Personnel,22026,4.6,5,62,574,En retard,Non payé
+85,85,Mercier,Marguerite,Enseignant,"131 Boulevard Zerktouni, Agadir",Agadir,Souss-Massa,296531,47338,12355.46,2024-01-01,2028-01-01,6.98,Professionnel,20001,61.8,3,91,625,En retard,Non payé
+86,86,Hernandez,Philippe,Peintre en bâtiment,"1 Avenue des FAR, Safi",Safi,Marrakech-Safi,128451,117101,3568.08,2024-01-01,2028-01-01,4.26,Personnel,19699,18.1,4,19,619,En retard,Non payé
+87,87,Moulin,Bernard,Coiffeur,"138 Rue Ghandi, Safi",Safi,Marrakech-Safi,179352,47450,2989.2,2024-01-01,2028-01-01,4.99,Personnel,7195,41.5,1,48,699,En retard,Payé
+88,88,David,Marguerite,Avocat,"83 Avenue Hassan II, Safi",Safi,Marrakech-Safi,188479,51135,5235.53,2024-01-01,2028-01-01,5.07,Immobilier,7884,66.4,2,101,664,En retard,Non payé
+89,89,Girard,Madeleine,Mécanicien,"106 Avenue Mohammed V, Salé",Salé,Rabat-Salé-Kénitra,149524,57342,4153.44,2024-01-01,2028-01-01,3.66,Immobilier,14975,27.7,4,18,610,En retard,Non payé
+90,90,Leroy,Louis,Comptable,"39 Rue Ghandi, Kénitra",Kénitra,Rabat-Salé-Kénitra,247146,80621,6865.17,2024-01-01,2028-01-01,5.98,Auto,26606,25.8,3,121,670,En retard,Non payé
+91,91,Taylor,André,Fermier,"26 Rue Ghandi, Kénitra",Kénitra,Rabat-Salé-Kénitra,255490,42482,5322.71,2024-01-01,2028-01-01,7.27,Auto,10588,50.3,5,62,555,En retard,Non payé
+92,92,Dupont,Jeanne,Ouvrier BTP,"37 Rue Allal Ben Abdellah, Salé",Salé,Rabat-Salé-Kénitra,106055,92431,2209.48,2024-01-01,2028-01-01,7.09,Auto,8266,26.7,8,41,451,En retard,Non payé
+93,93,Rodriguez,Suzanne,Médecin,"68 Boulevard Anfa, Rabat",Rabat,Rabat-Salé-Kénitra,238351,109238,4965.65,2024-01-01,2028-01-01,6.87,Professionnel,28961,17.1,7,117,481,En retard,Non payé
+94,94,Rousseau,Madeleine,Chauffeur,"85 Boulevard Abdelmoumen, Oujda",Oujda,L'Oriental,189327,110778,3944.31,2024-01-01,2028-01-01,3.28,Personnel,8427,46.8,2,176,684,En retard,Non payé
+95,95,Martinez,Madeleine,Analyste financier,"139 Avenue Mohammed V, Oujda",Oujda,L'Oriental,222908,90319,6191.89,2024-01-01,2028-01-01,5.18,Professionnel,6248,99.1,8,156,441,En retard,Non payé
+96,96,Lacroix,Catherine,Commerçant,"24 Rue Allal Ben Abdellah, Tanger",Tanger,Tanger-Tétouan-Al Hoceïma,55400,5463,2308.33,2024-01-01,2028-01-01,3.3,Auto,7835,29.5,2,135,673,En retard,Payé
+97,97,Blanc,Bernard,Ouvrier BTP,"43 Avenue des FAR, El Jadida",El Jadida,Casablanca-Settat,209265,136495,8719.38,2024-01-01,2028-01-01,4.89,Professionnel,7460,116.9,5,28,604,En retard,Non payé
+98,98,Moreau,Nathalie,Jardinier,"92 Boulevard Anfa, Marrakech",Marrakech,Marrakech-Safi,198104,186096,3301.73,2024-01-01,2028-01-01,7.2,Auto,17090,19.3,3,29,652,En retard,Non payé
+99,99,Anderson,Martine,Artisan,"47 Boulevard Zerktouni, Safi",Safi,Marrakech-Safi,133784,47754,2229.73,2024-01-01,2028-01-01,4.92,Professionnel,16461,13.5,1,104,728,En retard,Payé
+100,100,Jackson,Martine,Plombier,"62 Rue Ghandi, Safi",Safi,Marrakech-Safi,244528,210807,10188.67,2024-01-01,2028-01-01,5.38,Immobilier,22919,44.5,2,135,661,En retard,Payé
+101,101,David,François,Infirmier,"66 Rue Ghandi, Marrakech",Marrakech,Marrakech-Safi,28733,26483,1197.21,2024-01-01,2028-01-01,4.23,Auto,4046,29.6,3,119,618,En retard,Non payé
+102,102,David,Henri,Peintre en bâtiment,"74 Boulevard Abdelmoumen, Marrakech",Marrakech,Marrakech-Safi,220496,213556,9187.33,2024-01-01,2028-01-01,8.1,Professionnel,6849,134.1,1,58,732,En retard,Non payé
+103,103,Taylor,Nathalie,Agriculteur,"109 Avenue des FAR, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,208601,36034,5794.47,2024-01-01,2028-01-01,4.13,Immobilier,15296,37.9,1,82,740,En retard,Payé
+104,104,Leroy,Madeleine,Architecte,"124 Boulevard Mohammed VI, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,218512,186078,3641.87,2024-01-01,2028-01-01,6.2,Immobilier,22538,16.2,4,140,626,En retard,Non payé
+105,105,Anderson,Nathalie,Mécanicien,"76 Avenue Mohammed V, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,259901,189314,10829.21,2024-01-01,2028-01-01,6.57,Auto,7397,146.4,8,134,499,En retard,Non payé
+106,106,Anderson,Madeleine,Analyste financier,"13 Rue Ghandi, Casablanca",Casablanca,Casablanca-Settat,102219,82431,4259.12,2024-01-01,2028-01-01,7.4,Professionnel,7286,58.5,1,44,724,En retard,Non payé
+107,107,Robert,Catherine,Ingénieur,"49 Avenue des FAR, Tétouan",Tétouan,Tanger-Tétouan-Al Hoceïma,55287,32048,2303.62,2024-01-01,2028-01-01,3.36,Personnel,25751,8.9,5,94,586,En retard,Non payé
+108,108,Faure,François,Vendeur,"25 Avenue Mohammed V, Oujda",Oujda,L'Oriental,167113,83442,6963.04,2024-01-01,2028-01-01,3.7,Professionnel,16188,43.0,4,150,602,En retard,Non payé
+109,109,Taylor,Françoise,Ingénieur,"34 Boulevard Mohammed VI, Casablanca",Casablanca,Casablanca-Settat,161445,73636,2690.75,2024-01-01,2028-01-01,4.16,Immobilier,6568,41.0,3,13,620,En retard,Non payé
+110,110,Laurent,Sophie,Ingénieur,"52 Boulevard Zerktouni, El Jadida",El Jadida,Casablanca-Settat,96082,27223,4003.42,2024-01-01,2028-01-01,8.76,Immobilier,19956,20.1,4,58,595,En retard,Non payé
+111,111,Roux,Philippe,Avocat,"124 Avenue des FAR, Tétouan",Tétouan,Tanger-Tétouan-Al Hoceïma,264661,637,4411.02,2024-01-01,2028-01-01,4.33,Auto,8656,51.0,5,100,577,En retard,Non payé
+112,112,David,Pierre,Coiffeur,"37 Avenue Hassan II, Tanger",Tanger,Tanger-Tétouan-Al Hoceïma,159792,23503,2663.2,2024-01-01,2028-01-01,5.29,Professionnel,11317,23.5,2,43,691,En retard,Payé
+113,113,Wilson,Françoise,Vendeur,"24 Rue Allal Ben Abdellah, Tétouan",Tétouan,Tanger-Tétouan-Al Hoceïma,38643,23329,644.05,2024-01-01,2028-01-01,7.29,Professionnel,13208,4.9,7,138,528,En retard,Non payé
+114,114,David,Françoise,Jardinier,"68 Rue Allal Ben Abdellah, Tanger",Tanger,Tanger-Tétouan-Al Hoceïma,238848,164978,9952.0,2024-01-01,2028-01-01,5.72,Auto,18434,54.0,2,131,669,En retard,Non payé
+115,115,Girard,Nicole,Médecin,"7 Boulevard Abdelmoumen, Tanger",Tanger,Tanger-Tétouan-Al Hoceïma,229609,10839,6378.03,2024-01-01,2028-01-01,3.51,Auto,7572,84.2,0,0,765,En cours,Non payé
+116,116,David,Marguerite,Commerçant,"78 Rue Allal Ben Abdellah, Fès",Fès,Fès-Meknès,164725,91350,6863.54,2024-01-01,2028-01-01,3.8,Immobilier,13220,51.9,2,65,660,En retard,Non payé
+117,117,Petit,Nathalie,Ouvrier BTP,"127 Boulevard Mohammed VI, Fès",Fès,Fès-Meknès,158764,29267,4410.11,2024-01-01,2028-01-01,4.65,Professionnel,25540,17.3,2,78,678,En retard,Payé
+118,118,Leroy,Bernard,Ouvrier BTP,"95 Boulevard Abdelmoumen, Fès",Fès,Fès-Meknès,293194,223720,4886.57,2024-01-01,2028-01-01,5.42,Auto,22215,22.0,0,0,727,En cours,Payé
+119,119,Laurent,François,Développeur,"26 Rue Ghandi, Fès",Fès,Fès-Meknès,191471,151246,7977.96,2024-01-01,2028-01-01,5.83,Professionnel,15174,52.6,5,53,554,En retard,Non payé
+120,120,Richard,Alain,Développeur,"114 Rue Ghandi, Oujda",Oujda,L'Oriental,150727,42727,2512.12,2024-01-01,2028-01-01,3.12,Professionnel,12692,19.8,4,159,633,En retard,Non payé
+121,121,Richard,Monique,Mécanicien,"92 Avenue Mohammed V, Oujda",Oujda,L'Oriental,61896,52017,2579.0,2024-01-01,2028-01-01,8.69,Auto,13456,19.2,5,98,592,En retard,Non payé
+122,122,Garnier,Madeleine,Analyste financier,"117 Boulevard Mohammed VI, Oujda",Oujda,L'Oriental,38519,33649,641.98,2024-01-01,2028-01-01,4.28,Auto,8045,8.0,5,115,546,En retard,Non payé
+123,123,Moreau,Suzanne,Vendeur,"86 Avenue Hassan II, Oujda",Oujda,L'Oriental,105549,95719,1759.15,2024-01-01,2028-01-01,3.55,Auto,26769,6.6,4,104,635,En retard,Non payé
+124,124,Lefevre,Daniel,Artisan,"142 Avenue Hassan II, Oujda",Oujda,L'Oriental,251526,8623,4192.1,2024-01-01,2028-01-01,7.21,Auto,28705,14.6,8,15,460,En retard,Non payé
+125,125,Moulin,Suzanne,Électricien,"1 Avenue des FAR, El Jadida",El Jadida,Casablanca-Settat,241152,134002,10048.0,2024-01-01,2028-01-01,8.98,Auto,24715,40.7,8,127,469,En retard,Non payé
+126,126,Vincent,Isabelle,Artisan,"7 Boulevard Zerktouni, El Jadida",El Jadida,Casablanca-Settat,31214,21187,867.06,2024-01-01,2028-01-01,8.52,Auto,25580,3.4,4,30,640,En retard,Non payé
+127,127,Taylor,André,Jardinier,"5 Boulevard Zerktouni, Casablanca",Casablanca,Casablanca-Settat,90210,39072,1503.5,2024-01-01,2028-01-01,3.33,Professionnel,15214,9.9,4,38,590,En retard,Non payé
+128,128,Laurent,Jean-Pierre,Peintre en bâtiment,"30 Boulevard Mohammed VI, Casablanca",Casablanca,Casablanca-Settat,67851,11906,1130.85,2024-01-01,2028-01-01,8.29,Auto,23280,4.9,1,145,730,En retard,Payé
+129,129,Hernandez,Jacques,Consultant,"28 Rue Ghandi, El Jadida",El Jadida,Casablanca-Settat,78126,50120,3255.25,2024-01-01,2028-01-01,7.09,Auto,12714,25.6,8,147,442,En retard,Non payé
+130,130,Lopez,Nathalie,Mécanicien,"118 Avenue Mohammed V, Casablanca",Casablanca,Casablanca-Settat,74204,23747,3091.83,2024-01-01,2028-01-01,7.46,Personnel,20787,14.9,5,148,554,En retard,Non payé
+131,131,Simon,Christine,Fermier,"28 Rue Ghandi, Nador",Nador,L'Oriental,241413,110726,5029.44,2024-01-01,2028-01-01,8.81,Auto,27271,18.4,8,99,461,En retard,Non payé
+132,132,Rousseau,André,Chauffeur,"38 Boulevard Mohammed VI, Rabat",Rabat,Rabat-Salé-Kénitra,75678,33712,3153.25,2024-01-01,2028-01-01,6.03,Auto,10417,30.3,5,63,563,En retard,Non payé
+133,133,Taylor,Monique,Artisan,"84 Rue Allal Ben Abdellah, Tétouan",Tétouan,Tanger-Tétouan-Al Hoceïma,228953,222217,4769.85,2024-01-01,2028-01-01,5.62,Immobilier,24411,19.5,2,111,658,En retard,Payé
+134,134,David,Jean-Pierre,Commerçant,"111 Boulevard Mohammed VI, Fès",Fès,Fès-Meknès,43522,4089,725.37,2024-01-01,2028-01-01,4.98,Auto,11038,6.6,4,105,627,En retard,Non payé
+135,135,Wilson,Jeanne,Ouvrier BTP,"56 Rue Allal Ben Abdellah, Oujda",Oujda,L'Oriental,63245,36820,2635.21,2024-01-01,2028-01-01,5.08,Professionnel,14337,18.4,4,169,593,En retard,Non payé
+136,136,Thomas,Daniel,Architecte,"117 Rue Allal Ben Abdellah, Agadir",Agadir,Souss-Massa,223873,56074,6218.69,2024-01-01,2028-01-01,4.67,Immobilier,27475,22.6,2,23,689,En retard,Payé
+137,137,Michel,André,Développeur,"66 Boulevard Anfa, Marrakech",Marrakech,Marrakech-Safi,138633,78267,2888.19,2024-01-01,2028-01-01,6.84,Professionnel,8425,34.3,0,0,757,En cours,Payé
+138,138,Rodriguez,Pierre,Artisan,"24 Boulevard Mohammed VI, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,78600,67846,1637.5,2024-01-01,2028-01-01,4.96,Auto,18264,9.0,1,146,716,En retard,Payé
+139,139,Richard,Suzanne,Agriculteur,"34 Boulevard Abdelmoumen, Rabat",Rabat,Rabat-Salé-Kénitra,198910,54647,5525.28,2024-01-01,2028-01-01,8.14,Professionnel,16381,33.7,7,20,520,En retard,Non payé
+140,140,Thomas,Martine,Infirmier,"32 Rue Allal Ben Abdellah, Kénitra",Kénitra,Rabat-Salé-Kénitra,249090,177463,10378.75,2024-01-01,2028-01-01,7.05,Auto,20416,50.8,5,126,589,En retard,Non payé
+141,141,Michel,Madeleine,Avocat,"14 Avenue des FAR, Safi",Safi,Marrakech-Safi,61991,3890,2582.96,2024-01-01,2028-01-01,8.09,Professionnel,5139,50.3,1,179,687,En retard,Non payé
+142,142,Blanc,Jacques,Commerçant,"130 Avenue Hassan II, Marrakech",Marrakech,Marrakech-Safi,76798,23620,2133.28,2024-01-01,2028-01-01,7.7,Auto,24725,8.6,7,25,493,En retard,Non payé
+143,143,Blanc,Françoise,Vendeur,"143 Boulevard Anfa, Tanger",Tanger,Tanger-Tétouan-Al Hoceïma,243122,74596,4052.03,2024-01-01,2028-01-01,4.41,Personnel,12143,33.4,6,74,543,En retard,Non payé
+144,144,Girard,Suzanne,Ouvrier BTP,"110 Boulevard Abdelmoumen, Tétouan",Tétouan,Tanger-Tétouan-Al Hoceïma,68809,27224,1433.52,2024-01-01,2028-01-01,6.61,Immobilier,9227,15.5,1,126,724,En retard,Payé
+145,145,Wilson,Jean,Commerçant,"69 Avenue Mohammed V, Oujda",Oujda,L'Oriental,270410,164226,4506.83,2024-01-01,2028-01-01,6.59,Immobilier,7906,57.0,4,170,632,En retard,Non payé
+146,146,Fournier,Marguerite,Peintre en bâtiment,"87 Boulevard Anfa, Safi",Safi,Marrakech-Safi,67195,7998,1399.9,2024-01-01,2028-01-01,8.12,Personnel,18288,7.7,2,121,661,En retard,Payé
+147,147,Moulin,Jacques,Jardinier,"103 Boulevard Mohammed VI, Nador",Nador,L'Oriental,78193,26241,1629.02,2024-01-01,2028-01-01,8.91,Auto,25445,6.4,8,75,468,En retard,Non payé
+148,148,Rousseau,Jeanne,Artisan,"136 Avenue Hassan II, Casablanca",Casablanca,Casablanca-Settat,69545,44294,1159.08,2024-01-01,2028-01-01,5.94,Professionnel,5761,20.1,0,0,765,En cours,Payé
+149,149,Roux,Françoise,Développeur,"80 Boulevard Anfa, Safi",Safi,Marrakech-Safi,67182,38043,1399.62,2024-01-01,2028-01-01,7.02,Professionnel,12173,11.5,1,130,687,En retard,Payé
+150,150,Moreau,Michel,Infirmier,"41 Avenue Mohammed V, Marrakech",Marrakech,Marrakech-Safi,265579,254311,11065.79,2024-01-01,2028-01-01,3.79,Immobilier,17268,64.1,6,19,534,En retard,Non payé
+151,151,Garcia,Martine,Vendeur,"109 Rue Ghandi, Safi",Safi,Marrakech-Safi,138240,116653,2880.0,2024-01-01,2028-01-01,6.07,Personnel,22148,13.0,4,12,638,En retard,Non payé
+152,152,Berger,Alain,Commerçant,"132 Boulevard Mohammed VI, Safi",Safi,Marrakech-Safi,45016,3995,750.27,2024-01-01,2028-01-01,7.15,Immobilier,26988,2.8,2,103,699,En retard,Payé
+153,153,Taylor,Nicole,Développeur,"135 Avenue des FAR, Fès",Fès,Fès-Meknès,47891,27926,1330.31,2024-01-01,2028-01-01,6.75,Auto,18384,7.2,0,0,750,En cours,Payé
+154,154,Moore,Marie,Fermier,"2 Avenue Hassan II, Agadir",Agadir,Souss-Massa,124466,52241,5186.08,2024-01-01,2028-01-01,8.17,Professionnel,25136,20.6,2,170,684,En retard,Payé
+155,155,Faure,Paul,Ingénieur,"66 Avenue des FAR, Safi",Safi,Marrakech-Safi,267135,190927,4452.25,2024-01-01,2028-01-01,6.84,Auto,18503,24.1,2,172,701,En retard,Payé
+156,156,Martinez,Jeanne,Comptable,"111 Boulevard Zerktouni, Casablanca",Casablanca,Casablanca-Settat,67905,45643,1131.75,2024-01-01,2028-01-01,4.72,Auto,25641,4.4,7,38,529,En retard,Non payé
+157,157,Girard,Jean-Pierre,Analyste financier,"144 Boulevard Anfa, El Jadida",El Jadida,Casablanca-Settat,186409,136665,5178.03,2024-01-01,2028-01-01,6.77,Professionnel,19281,26.9,5,179,548,En retard,Non payé
+158,158,Petit,Christine,Agriculteur,"5 Rue Ghandi, Nador",Nador,L'Oriental,99397,95408,1656.62,2024-01-01,2028-01-01,8.28,Professionnel,26498,6.3,6,114,570,En retard,Non payé
+159,159,Michel,Jacques,Agriculteur,"104 Rue Allal Ben Abdellah, Tétouan",Tétouan,Tanger-Tétouan-Al Hoceïma,191865,157643,7994.38,2024-01-01,2028-01-01,6.26,Immobilier,20625,38.8,1,136,706,En retard,Payé
+160,160,Dubois,Sophie,Ouvrier BTP,"118 Boulevard Anfa, Rabat",Rabat,Rabat-Salé-Kénitra,249591,248452,6933.08,2024-01-01,2028-01-01,3.45,Personnel,24100,28.8,8,6,447,En retard,Non payé
+161,161,Renaud,Christine,Agriculteur,"103 Boulevard Abdelmoumen, Rabat",Rabat,Rabat-Salé-Kénitra,179776,156670,2996.27,2024-01-01,2028-01-01,6.45,Professionnel,27670,10.8,7,80,516,En retard,Non payé
+162,162,Thomas,Catherine,Agriculteur,"86 Boulevard Zerktouni, Salé",Salé,Rabat-Salé-Kénitra,113708,29182,2368.92,2024-01-01,2028-01-01,7.91,Professionnel,23622,10.0,3,174,617,En retard,Non payé
+163,163,Garnier,Jean-Pierre,Agriculteur,"131 Avenue Hassan II, Kénitra",Kénitra,Rabat-Salé-Kénitra,246017,205262,10250.71,2024-01-01,2028-01-01,6.67,Immobilier,25070,40.9,3,74,624,En retard,Non payé
+164,164,Moulin,Catherine,Avocat,"27 Boulevard Zerktouni, Nador",Nador,L'Oriental,18921,7238,788.38,2024-01-01,2028-01-01,6.35,Professionnel,19879,4.0,0,0,749,En cours,Payé
+165,165,Moore,Michel,Peintre en bâtiment,"20 Boulevard Zerktouni, Salé",Salé,Rabat-Salé-Kénitra,15655,10717,652.29,2024-01-01,2028-01-01,5.42,Personnel,8221,7.9,0,0,774,En cours,Payé
+166,166,Anderson,Paul,Médecin,"149 Rue Ghandi, Meknès",Meknès,Fès-Meknès,47276,41966,787.93,2024-01-01,2028-01-01,8.57,Auto,6278,12.6,7,82,505,En retard,Non payé
+167,167,Jackson,André,Vendeur,"81 Boulevard Zerktouni, Oujda",Oujda,L'Oriental,286044,38433,7945.67,2024-01-01,2028-01-01,8.72,Auto,22497,35.3,0,0,777,En cours,Payé
+168,168,Fournier,Suzanne,Agriculteur,"71 Avenue Mohammed V, Safi",Safi,Marrakech-Safi,241236,26741,4020.6,2024-01-01,2028-01-01,7.81,Personnel,12272,32.8,0,0,754,En cours,Payé
+169,169,Fournier,Bernard,Avocat,"116 Avenue Mohammed V, Marrakech",Marrakech,Marrakech-Safi,132654,11567,5527.25,2024-01-01,2028-01-01,6.06,Auto,6269,88.2,2,28,653,En retard,Non payé
+170,170,Lefevre,François,Fermier,"24 Boulevard Abdelmoumen, Safi",Safi,Marrakech-Safi,266522,23337,11105.08,2024-01-01,2028-01-01,7.42,Immobilier,7393,150.2,3,154,673,En retard,Non payé
+171,171,Garcia,Marguerite,Analyste financier,"147 Avenue Hassan II, Marrakech",Marrakech,Marrakech-Safi,76461,47092,3185.88,2024-01-01,2028-01-01,3.79,Immobilier,10736,29.7,6,71,538,En retard,Non payé
+172,172,Moulin,Marie,Commerçant,"116 Boulevard Mohammed VI, Kénitra",Kénitra,Rabat-Salé-Kénitra,259538,141949,4325.63,2024-01-01,2028-01-01,6.05,Professionnel,5763,75.1,1,95,708,En retard,Non payé
+173,173,Hernandez,François,Comptable,"45 Avenue Mohammed V, Rabat",Rabat,Rabat-Salé-Kénitra,106882,77847,2226.71,2024-01-01,2028-01-01,6.76,Professionnel,9358,23.8,8,88,475,En retard,Non payé
+174,174,Garcia,Jean-Pierre,Mécanicien,"134 Boulevard Zerktouni, Meknès",Meknès,Fès-Meknès,55595,33516,1158.23,2024-01-01,2028-01-01,6.2,Auto,11888,9.7,3,143,673,En retard,Non payé
+175,175,Lacroix,Louis,Avocat,"105 Boulevard Anfa, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,86017,22461,1792.02,2024-01-01,2028-01-01,7.4,Personnel,9768,18.3,1,124,700,En retard,Payé
+176,176,Thomas,Pierre,Commerçant,"85 Boulevard Mohammed VI, Safi",Safi,Marrakech-Safi,42345,5403,1176.25,2024-01-01,2028-01-01,3.36,Immobilier,22470,5.2,2,79,705,En retard,Payé
+177,177,Lacroix,Philippe,Enseignant,"39 Boulevard Anfa, Agadir",Agadir,Souss-Massa,239524,128391,6653.44,2024-01-01,2028-01-01,7.24,Auto,4846,137.3,0,0,723,En cours,Non payé
+178,178,Moulin,Marguerite,Agriculteur,"90 Avenue des FAR, Oujda",Oujda,L'Oriental,129918,81966,2706.62,2024-01-01,2028-01-01,4.45,Personnel,25339,10.7,2,156,672,En retard,Payé
+179,179,Simon,Michel,Médecin,"22 Avenue des FAR, Oujda",Oujda,L'Oriental,67427,32082,1123.78,2024-01-01,2028-01-01,6.02,Immobilier,4064,27.7,4,134,622,En retard,Non payé
+180,180,Thomas,Daniel,Enseignant,"33 Boulevard Abdelmoumen, Oujda",Oujda,L'Oriental,289607,3965,4826.78,2024-01-01,2028-01-01,6.36,Immobilier,23751,20.3,4,83,639,En retard,Non payé
+181,181,Hernandez,Françoise,Médecin,"5 Boulevard Anfa, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,118925,62004,2477.6,2024-01-01,2028-01-01,8.95,Immobilier,5968,41.5,4,161,581,En retard,Non payé
+182,182,Thomas,Paul,Ingénieur,"125 Avenue Hassan II, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,149428,95310,3113.08,2024-01-01,2028-01-01,4.94,Immobilier,26225,11.9,4,33,587,En retard,Non payé
+183,183,Lefevre,Nathalie,Mécanicien,"26 Boulevard Abdelmoumen, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,283932,31814,7887.0,2024-01-01,2028-01-01,6.02,Professionnel,21383,36.9,5,101,545,En retard,Non payé
+184,184,Thomas,Henri,Coiffeur,"34 Rue Allal Ben Abdellah, Casablanca",Casablanca,Casablanca-Settat,138779,23983,2312.98,2024-01-01,2028-01-01,4.38,Immobilier,21493,10.8,2,25,664,En retard,Payé
+185,185,Jackson,Suzanne,Artisan,"43 Rue Ghandi, Casablanca",Casablanca,Casablanca-Settat,147943,135068,3082.15,2024-01-01,2028-01-01,7.79,Auto,13943,22.1,0,0,724,En cours,Payé
+186,186,Renaud,Bernard,Fermier,"73 Rue Ghandi, El Jadida",El Jadida,Casablanca-Settat,218820,125608,9117.5,2024-01-01,2028-01-01,5.22,Professionnel,11417,79.9,3,51,620,En retard,Non payé
+187,187,Fournier,Suzanne,Mécanicien,"121 Avenue Hassan II, Casablanca",Casablanca,Casablanca-Settat,175805,112132,7325.21,2024-01-01,2028-01-01,7.75,Professionnel,29714,24.7,4,80,636,En retard,Non payé
+188,188,David,Paul,Avocat,"73 Rue Allal Ben Abdellah, El Jadida",El Jadida,Casablanca-Settat,111982,97912,4665.92,2024-01-01,2028-01-01,8.59,Auto,24910,18.7,2,30,675,En retard,Payé
+189,189,Mercier,Suzanne,Banquier,"36 Avenue des FAR, Salé",Salé,Rabat-Salé-Kénitra,231033,168681,4813.19,2024-01-01,2028-01-01,5.36,Auto,13696,35.1,1,26,717,En retard,Payé
+190,190,Richard,Monique,Fermier,"27 Boulevard Abdelmoumen, Meknès",Meknès,Fès-Meknès,237111,86969,3951.85,2024-01-01,2028-01-01,8.95,Immobilier,29054,13.6,5,17,591,En retard,Non payé
+191,191,Roux,Philippe,Ouvrier BTP,"116 Boulevard Abdelmoumen, Rabat",Rabat,Rabat-Salé-Kénitra,18819,6190,392.06,2024-01-01,2028-01-01,5.07,Professionnel,24619,1.6,4,70,592,En retard,Non payé
+192,192,Girard,Daniel,Artisan,"116 Boulevard Anfa, Rabat",Rabat,Rabat-Salé-Kénitra,112651,13949,2346.9,2024-01-01,2028-01-01,7.53,Immobilier,14922,15.7,5,72,590,En retard,Non payé
+193,193,Simon,Jean-Pierre,Jardinier,"96 Avenue Hassan II, Casablanca",Casablanca,Casablanca-Settat,155459,4821,6477.46,2024-01-01,2028-01-01,7.53,Immobilier,4171,155.3,2,78,696,En retard,Non payé
+194,194,Durand,André,Agriculteur,"26 Boulevard Anfa, Tanger",Tanger,Tanger-Tétouan-Al Hoceïma,175018,135229,7292.42,2024-01-01,2028-01-01,3.51,Immobilier,27287,26.7,4,155,584,En retard,Non payé
+195,195,Lacroix,Marguerite,Artisan,"121 Boulevard Zerktouni, Casablanca",Casablanca,Casablanca-Settat,238741,47136,4973.77,2024-01-01,2028-01-01,3.7,Professionnel,19826,25.1,8,108,445,En retard,Non payé
+196,196,Jackson,Jean,Chauffeur,"21 Avenue Mohammed V, Meknès",Meknès,Fès-Meknès,76315,50885,2119.86,2024-01-01,2028-01-01,7.25,Professionnel,16135,13.1,6,63,534,En retard,Non payé
+197,197,Moulin,Monique,Peintre en bâtiment,"136 Rue Allal Ben Abdellah, Nador",Nador,L'Oriental,15882,9057,661.75,2024-01-01,2028-01-01,7.41,Professionnel,13029,5.1,5,174,597,En retard,Non payé
+198,198,Garnier,Marie,Ingénieur,"62 Rue Allal Ben Abdellah, Fès",Fès,Fès-Meknès,45711,36755,1269.75,2024-01-01,2028-01-01,8.56,Personnel,9307,13.6,1,103,706,En retard,Payé
+199,199,Lefevre,Isabelle,Médecin,"128 Boulevard Abdelmoumen, Meknès",Meknès,Fès-Meknès,166383,50831,2773.05,2024-01-01,2028-01-01,6.91,Personnel,22308,12.4,3,55,641,En retard,Non payé
+200,200,Anderson,Catherine,Jardinier,"37 Avenue des FAR, Kénitra",Kénitra,Rabat-Salé-Kénitra,36610,26151,610.17,2024-01-01,2028-01-01,3.16,Personnel,20833,2.9,8,13,479,En retard,Non payé
+201,201,Renaud,Jacques,Jardinier,"107 Boulevard Zerktouni, Nador",Nador,L'Oriental,148755,26596,6198.12,2024-01-01,2028-01-01,3.17,Professionnel,20422,30.4,6,159,564,En retard,Non payé
+202,202,Lopez,Françoise,Vendeur,"18 Boulevard Abdelmoumen, Oujda",Oujda,L'Oriental,75750,38554,2104.17,2024-01-01,2028-01-01,7.15,Personnel,26076,8.1,7,118,518,En retard,Non payé
+203,203,Leroy,Madeleine,Enseignant,"121 Avenue Mohammed V, Oujda",Oujda,L'Oriental,201941,83517,3365.68,2024-01-01,2028-01-01,4.57,Professionnel,5445,61.8,1,141,694,En retard,Non payé
+204,204,Bonnin,Jeanne,Médecin,"5 Boulevard Anfa, Nador",Nador,L'Oriental,230248,89528,6395.78,2024-01-01,2028-01-01,5.69,Personnel,27310,23.4,5,61,582,En retard,Non payé
+205,205,Blanc,Paul,Avocat,"149 Boulevard Anfa, El Jadida",El Jadida,Casablanca-Settat,15736,10524,437.11,2024-01-01,2028-01-01,6.06,Immobilier,24331,1.8,0,0,756,En cours,Payé
+206,206,Gonzalez,André,Artisan,"45 Rue Ghandi, Marrakech",Marrakech,Marrakech-Safi,187674,172268,3909.88,2024-01-01,2028-01-01,7.52,Immobilier,21021,18.6,7,175,504,En retard,Non payé
+207,207,Vincent,Suzanne,Chauffeur,"35 Boulevard Mohammed VI, Oujda",Oujda,L'Oriental,169435,30211,4706.53,2024-01-01,2028-01-01,4.98,Immobilier,8861,53.1,3,112,637,En retard,Non payé
+208,208,Mercier,Marie,Architecte,"52 Avenue Mohammed V, Fès",Fès,Fès-Meknès,288919,100013,6019.15,2024-01-01,2028-01-01,6.51,Personnel,14280,42.2,7,165,487,En retard,Non payé
+209,209,Simon,Daniel,Comptable,"140 Rue Ghandi, Kénitra",Kénitra,Rabat-Salé-Kénitra,287231,50396,4787.18,2024-01-01,2028-01-01,5.88,Professionnel,23584,20.3,1,97,690,En retard,Payé
+210,210,Mercier,Nathalie,Peintre en bâtiment,"92 Avenue Mohammed V, Safi",Safi,Marrakech-Safi,253687,242981,7046.86,2024-01-01,2028-01-01,6.38,Professionnel,8278,85.1,5,6,597,En retard,Non payé
+211,211,Garnier,Suzanne,Médecin,"95 Rue Allal Ben Abdellah, Fès",Fès,Fès-Meknès,131268,14629,2187.8,2024-01-01,2028-01-01,7.42,Auto,11651,18.8,1,114,702,En retard,Payé
+212,212,Leroy,André,Analyste financier,"48 Rue Ghandi, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,139910,116706,2331.83,2024-01-01,2028-01-01,3.76,Auto,4923,47.4,4,36,636,En retard,Non payé
+213,213,Rousseau,Jeanne,Consultant,"109 Boulevard Mohammed VI, Nador",Nador,L'Oriental,127455,63040,3540.42,2024-01-01,2028-01-01,4.35,Auto,11033,32.1,3,165,620,En retard,Non payé
+214,214,Gonzalez,Nathalie,Développeur,"83 Boulevard Mohammed VI, Oujda",Oujda,L'Oriental,111048,60153,1850.8,2024-01-01,2028-01-01,3.46,Auto,25007,7.4,3,90,628,En retard,Non payé
+215,215,Fournier,Bernard,Agriculteur,"110 Boulevard Zerktouni, Nador",Nador,L'Oriental,161194,4001,3358.21,2024-01-01,2028-01-01,7.21,Auto,20946,16.0,6,46,514,En retard,Non payé
+216,216,Garcia,Marie,Chauffeur,"91 Rue Allal Ben Abdellah, Nador",Nador,L'Oriental,207608,128867,8650.33,2024-01-01,2028-01-01,7.4,Immobilier,23734,36.4,5,36,545,En retard,Non payé
+217,217,Lefevre,Martine,Peintre en bâtiment,"104 Boulevard Anfa, Oujda",Oujda,L'Oriental,281849,11511,7829.14,2024-01-01,2028-01-01,4.22,Auto,19598,39.9,1,148,716,En retard,Payé
+218,218,Durand,Michel,Coiffeur,"113 Avenue Mohammed V, Salé",Salé,Rabat-Salé-Kénitra,234116,206576,4877.42,2024-01-01,2028-01-01,3.28,Auto,22225,21.9,7,22,506,En retard,Non payé
+219,219,Richard,Françoise,Artisan,"99 Avenue Mohammed V, Tanger",Tanger,Tanger-Tétouan-Al Hoceïma,200933,165843,4186.1,2024-01-01,2028-01-01,6.97,Immobilier,9380,44.6,5,156,570,En retard,Non payé
+220,220,Garcia,Françoise,Commerçant,"96 Rue Ghandi, Oujda",Oujda,L'Oriental,222743,68504,6187.31,2024-01-01,2028-01-01,6.76,Immobilier,5580,110.9,3,80,659,En retard,Non payé
+221,221,Lopez,Françoise,Agriculteur,"102 Boulevard Anfa, Salé",Salé,Rabat-Salé-Kénitra,287868,162528,5997.25,2024-01-01,2028-01-01,3.59,Immobilier,19840,30.2,1,31,736,En retard,Payé
+222,222,Garnier,Jean,Médecin,"48 Rue Ghandi, Tanger",Tanger,Tanger-Tétouan-Al Hoceïma,198447,16720,8268.62,2024-01-01,2028-01-01,5.43,Immobilier,24636,33.6,0,0,734,En cours,Payé
+223,223,Bonnin,Paul,Analyste financier,"67 Rue Ghandi, Rabat",Rabat,Rabat-Salé-Kénitra,197513,97416,3291.88,2024-01-01,2028-01-01,4.58,Professionnel,27942,11.8,2,113,710,En retard,Payé
+224,224,Martinez,Alain,Électricien,"32 Boulevard Zerktouni, Fès",Fès,Fès-Meknès,235282,5508,9803.42,2024-01-01,2028-01-01,4.51,Personnel,6798,144.2,4,41,580,En retard,Non payé
+225,225,Garcia,Pierre,Agriculteur,"82 Boulevard Anfa, Salé",Salé,Rabat-Salé-Kénitra,53956,23242,1124.08,2024-01-01,2028-01-01,6.16,Immobilier,23507,4.8,8,177,481,En retard,Non payé
+226,226,Gonzalez,Nathalie,Chauffeur,"77 Boulevard Zerktouni, Kénitra",Kénitra,Rabat-Salé-Kénitra,205767,146051,3429.45,2024-01-01,2028-01-01,3.26,Immobilier,20384,16.8,1,70,718,En retard,Payé
+227,227,Vincent,Suzanne,Chauffeur,"93 Boulevard Abdelmoumen, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,280549,76569,11689.54,2024-01-01,2028-01-01,6.97,Professionnel,29819,39.2,5,148,569,En retard,Non payé
+228,228,Faure,Catherine,Ouvrier BTP,"127 Avenue Mohammed V, Safi",Safi,Marrakech-Safi,51699,51503,1077.06,2024-01-01,2028-01-01,3.98,Auto,15599,6.9,2,36,664,En retard,Payé
+229,229,Richard,Bernard,Avocat,"142 Boulevard Zerktouni, Tétouan",Tétouan,Tanger-Tétouan-Al Hoceïma,24325,12319,1013.54,2024-01-01,2028-01-01,5.8,Auto,15763,6.4,3,86,657,En retard,Non payé
+230,230,Fournier,Louis,Commerçant,"123 Boulevard Abdelmoumen, Rabat",Rabat,Rabat-Salé-Kénitra,134151,37951,5589.62,2024-01-01,2028-01-01,4.8,Professionnel,14808,37.7,6,155,566,En retard,Non payé
+231,231,Faure,André,Développeur,"19 Rue Ghandi, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,216652,118650,6018.11,2024-01-01,2028-01-01,3.38,Professionnel,23674,25.4,1,67,735,En retard,Payé
+232,232,Faure,Henri,Architecte,"142 Boulevard Zerktouni, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,88552,21147,3689.67,2024-01-01,2028-01-01,5.1,Immobilier,17366,21.2,3,159,646,En retard,Non payé
+233,233,Garnier,Jean-Pierre,Artisan,"40 Avenue des FAR, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,90283,11092,1880.9,2024-01-01,2028-01-01,6.98,Personnel,16333,11.5,5,174,580,En retard,Non payé
+234,234,Girard,Françoise,Plombier,"133 Avenue des FAR, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,60998,50275,1270.79,2024-01-01,2028-01-01,7.24,Auto,5346,23.8,6,98,530,En retard,Non payé
+235,235,Faure,François,Peintre en bâtiment,"78 Boulevard Abdelmoumen, Meknès",Meknès,Fès-Meknès,15489,9721,322.69,2024-01-01,2028-01-01,5.03,Professionnel,16606,1.9,8,95,457,En retard,Non payé
+236,236,Taylor,Jacques,Agriculteur,"40 Boulevard Zerktouni, Fès",Fès,Fès-Meknès,67970,38475,1132.83,2024-01-01,2028-01-01,5.61,Professionnel,12285,9.2,8,41,456,En retard,Non payé
+237,237,Anderson,Marie,Vendeur,"8 Boulevard Mohammed VI, Meknès",Meknès,Fès-Meknès,190855,180913,3180.92,2024-01-01,2028-01-01,4.36,Auto,6365,50.0,5,174,603,En retard,Non payé
+238,238,Lambert,Paul,Médecin,"147 Rue Allal Ben Abdellah, Salé",Salé,Rabat-Salé-Kénitra,283803,27378,11825.12,2024-01-01,2028-01-01,8.59,Professionnel,29749,39.7,8,174,476,En retard,Non payé
+239,239,Martinez,Henri,Commerçant,"140 Avenue des FAR, Rabat",Rabat,Rabat-Salé-Kénitra,187936,103074,3132.27,2024-01-01,2028-01-01,6.72,Auto,29001,10.8,0,0,778,En cours,Payé
+240,240,Renaud,Suzanne,Médecin,"104 Avenue des FAR, Salé",Salé,Rabat-Salé-Kénitra,299056,104467,4984.27,2024-01-01,2028-01-01,6.86,Auto,7722,64.5,8,174,468,En retard,Non payé
+241,241,Roux,Bernard,Agriculteur,"107 Rue Ghandi, Fès",Fès,Fès-Meknès,167213,88987,2786.88,2024-01-01,2028-01-01,5.78,Professionnel,17704,15.7,1,81,704,En retard,Payé
+242,242,Moore,Michel,Architecte,"81 Boulevard Anfa, Meknès",Meknès,Fès-Meknès,165294,56278,4591.5,2024-01-01,2028-01-01,3.29,Professionnel,8031,57.2,6,66,514,En retard,Non payé
+243,243,Faure,Paul,Coiffeur,"95 Boulevard Abdelmoumen, Meknès",Meknès,Fès-Meknès,233253,7151,9718.88,2024-01-01,2028-01-01,4.62,Personnel,28032,34.7,8,30,498,En retard,Non payé
+244,244,Renaud,Bernard,Enseignant,"32 Avenue des FAR, Meknès",Meknès,Fès-Meknès,280907,86974,4681.78,2024-01-01,2028-01-01,6.4,Auto,12701,36.9,5,42,602,En retard,Non payé
+245,245,Moreau,Nathalie,Mécanicien,"99 Rue Allal Ben Abdellah, Rabat",Rabat,Rabat-Salé-Kénitra,299747,21564,4995.78,2024-01-01,2028-01-01,8.59,Immobilier,7747,64.5,7,38,499,En retard,Non payé
+246,246,Dubois,Marguerite,Mécanicien,"148 Boulevard Anfa, Nador",Nador,L'Oriental,152456,131671,6352.33,2024-01-01,2028-01-01,3.1,Auto,25034,25.4,6,82,513,En retard,Non payé
+247,247,Hernandez,Bernard,Électricien,"128 Avenue des FAR, Meknès",Meknès,Fès-Meknès,276017,5974,5750.35,2024-01-01,2028-01-01,5.6,Professionnel,10252,56.1,4,38,603,En retard,Non payé
+248,248,Simon,Jean-Pierre,Consultant,"118 Avenue Hassan II, Rabat",Rabat,Rabat-Salé-Kénitra,55411,44,1154.4,2024-01-01,2028-01-01,3.51,Professionnel,23074,5.0,7,147,497,En retard,Non payé
+249,249,Moreau,Nathalie,Infirmier,"127 Rue Ghandi, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,287365,5255,4789.42,2024-01-01,2028-01-01,7.8,Immobilier,18999,25.2,8,85,466,En retard,Non payé
+250,250,Blanc,Christine,Ingénieur,"35 Avenue des FAR, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,24954,11684,693.17,2024-01-01,2028-01-01,5.27,Auto,23751,2.9,1,147,693,En retard,Payé
+251,251,Richard,Marie,Coiffeur,"103 Avenue Mohammed V, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,262594,215166,4376.57,2024-01-01,2028-01-01,8.22,Personnel,11607,37.7,6,147,522,En retard,Non payé
+252,252,Wilson,Nathalie,Enseignant,"19 Rue Allal Ben Abdellah, Marrakech",Marrakech,Marrakech-Safi,269822,19441,7495.06,2024-01-01,2028-01-01,3.49,Professionnel,12050,62.2,1,33,703,En retard,Non payé
+253,253,Wilson,Philippe,Banquier,"31 Boulevard Zerktouni, Safi",Safi,Marrakech-Safi,238857,154656,9952.38,2024-01-01,2028-01-01,8.06,Immobilier,29371,33.9,1,168,732,En retard,Payé
+254,254,Thomas,Monique,Ouvrier BTP,"94 Boulevard Zerktouni, Marrakech",Marrakech,Marrakech-Safi,276696,206299,4611.6,2024-01-01,2028-01-01,5.98,Personnel,8464,54.5,0,0,720,En cours,Non payé
+255,255,Simon,Jean-Pierre,Électricien,"11 Avenue Mohammed V, Kénitra",Kénitra,Rabat-Salé-Kénitra,130867,85300,2181.12,2024-01-01,2028-01-01,3.26,Immobilier,25123,8.7,8,152,464,En retard,Non payé
+256,256,Thomas,Suzanne,Fermier,"122 Boulevard Abdelmoumen, El Jadida",El Jadida,Casablanca-Settat,274177,210346,5712.02,2024-01-01,2028-01-01,7.79,Professionnel,14104,40.5,8,58,468,En retard,Non payé
+257,257,Hernandez,Michel,Artisan,"84 Boulevard Anfa, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,58495,19521,974.92,2024-01-01,2028-01-01,6.01,Auto,8476,11.5,8,59,440,En retard,Non payé
+258,258,Fournier,Jacques,Plombier,"87 Boulevard Abdelmoumen, Tétouan",Tétouan,Tanger-Tétouan-Al Hoceïma,151758,17670,3161.62,2024-01-01,2028-01-01,3.96,Immobilier,17818,17.7,7,67,531,En retard,Non payé
+259,259,Anderson,Nathalie,Banquier,"122 Avenue Mohammed V, Meknès",Meknès,Fès-Meknès,288757,247875,4812.62,2024-01-01,2028-01-01,6.62,Professionnel,16174,29.8,3,15,666,En retard,Non payé
+260,260,Garnier,Christine,Avocat,"150 Avenue des FAR, Oujda",Oujda,L'Oriental,90213,67780,2505.92,2024-01-01,2028-01-01,6.26,Personnel,23910,10.5,0,0,740,En cours,Payé
+261,261,Moore,Nicole,Chauffeur,"68 Avenue Hassan II, Casablanca",Casablanca,Casablanca-Settat,295207,99185,6150.15,2024-01-01,2028-01-01,7.91,Professionnel,6394,96.2,3,98,631,En retard,Non payé
+262,262,Rodriguez,Sophie,Coiffeur,"135 Rue Allal Ben Abdellah, Tétouan",Tétouan,Tanger-Tétouan-Al Hoceïma,170760,117140,7115.0,2024-01-01,2028-01-01,7.92,Personnel,4458,159.6,1,180,689,En retard,Non payé
+263,263,Petit,Jacques,Artisan,"29 Avenue Hassan II, Tanger",Tanger,Tanger-Tétouan-Al Hoceïma,17101,4020,712.54,2024-01-01,2028-01-01,5.78,Professionnel,24466,2.9,7,100,534,En retard,Non payé
+264,264,Laurent,Michel,Jardinier,"106 Avenue Hassan II, Marrakech",Marrakech,Marrakech-Safi,284386,261156,7899.61,2024-01-01,2028-01-01,4.2,Immobilier,24973,31.6,1,146,695,En retard,Payé
+265,265,Jackson,Marguerite,Développeur,"121 Avenue Mohammed V, Safi",Safi,Marrakech-Safi,189011,27020,5250.31,2024-01-01,2028-01-01,7.16,Auto,11185,46.9,3,139,672,En retard,Non payé
+266,266,Wilson,André,Artisan,"123 Boulevard Abdelmoumen, Rabat",Rabat,Rabat-Salé-Kénitra,210722,47379,5853.39,2024-01-01,2028-01-01,5.42,Professionnel,24548,23.8,3,145,671,En retard,Non payé
+267,267,David,Marguerite,Analyste financier,"137 Boulevard Anfa, Rabat",Rabat,Rabat-Salé-Kénitra,59337,38589,1648.25,2024-01-01,2028-01-01,5.3,Immobilier,19695,8.4,1,91,716,En retard,Payé
+268,268,Bonnin,Véronique,Enseignant,"124 Avenue Hassan II, Kénitra",Kénitra,Rabat-Salé-Kénitra,288772,30786,4812.87,2024-01-01,2028-01-01,5.68,Auto,28116,17.1,2,79,650,En retard,Payé
+269,269,Fournier,Catherine,Mécanicien,"77 Avenue des FAR, Kénitra",Kénitra,Rabat-Salé-Kénitra,52168,25078,1086.83,2024-01-01,2028-01-01,5.26,Immobilier,5654,19.2,2,12,696,En retard,Payé
+270,270,Martinez,André,Chauffeur,"123 Boulevard Anfa, Kénitra",Kénitra,Rabat-Salé-Kénitra,71233,52447,2968.04,2024-01-01,2028-01-01,6.84,Auto,23090,12.9,2,81,708,En retard,Payé
+271,271,Garnier,Jacques,Coiffeur,"140 Rue Allal Ben Abdellah, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,155900,74956,6495.83,2024-01-01,2028-01-01,3.33,Immobilier,19494,33.3,3,180,644,En retard,Non payé
+272,272,Lacroix,Marie,Analyste financier,"74 Boulevard Mohammed VI, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,240352,63569,6676.44,2024-01-01,2028-01-01,5.47,Auto,8040,83.0,2,39,699,En retard,Non payé
+273,273,Rodriguez,Alain,Avocat,"52 Boulevard Abdelmoumen, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,62785,57699,1744.03,2024-01-01,2028-01-01,7.58,Professionnel,10226,17.1,4,180,605,En retard,Non payé
+274,274,Faure,Isabelle,Peintre en bâtiment,"62 Avenue Hassan II, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,154142,89842,6422.58,2024-01-01,2028-01-01,8.55,Immobilier,17082,37.6,0,0,755,En cours,Payé
+275,275,Girard,Marie,Fermier,"26 Rue Allal Ben Abdellah, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,264825,248765,7356.25,2024-01-01,2028-01-01,5.86,Personnel,13314,55.3,5,138,577,En retard,Non payé
+276,276,Faure,Jean,Chauffeur,"141 Boulevard Zerktouni, Rabat",Rabat,Rabat-Salé-Kénitra,71124,8661,1975.67,2024-01-01,2028-01-01,4.88,Personnel,9598,20.6,7,25,512,En retard,Non payé
+277,277,Rodriguez,Nicole,Développeur,"52 Avenue des FAR, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,24203,606,1008.46,2024-01-01,2028-01-01,3.17,Personnel,23321,4.3,7,31,498,En retard,Non payé
+278,278,Moreau,Marguerite,Comptable,"23 Avenue Hassan II, Oujda",Oujda,L'Oriental,87364,73598,2426.78,2024-01-01,2028-01-01,5.48,Professionnel,11603,20.9,5,109,551,En retard,Non payé
+279,279,Vincent,Christine,Enseignant,"46 Avenue Mohammed V, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,38902,21587,1080.61,2024-01-01,2028-01-01,7.82,Auto,10680,10.1,5,135,549,En retard,Non payé
+280,280,Petit,Jean,Consultant,"77 Boulevard Mohammed VI, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,102489,42996,1708.15,2024-01-01,2028-01-01,7.42,Personnel,22753,7.5,0,0,746,En cours,Payé
+281,281,Gonzalez,Jean-Pierre,Comptable,"127 Boulevard Zerktouni, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,49321,47049,822.02,2024-01-01,2028-01-01,4.13,Auto,5825,14.1,7,72,514,En retard,Non payé
+282,282,Mercier,Suzanne,Banquier,"29 Boulevard Anfa, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,174018,43717,3625.38,2024-01-01,2028-01-01,6.66,Professionnel,22265,16.3,2,41,691,En retard,Payé
+283,283,Vincent,Jean,Plombier,"87 Avenue des FAR, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,271801,182370,5662.52,2024-01-01,2028-01-01,3.3,Personnel,12313,46.0,4,163,631,En retard,Non payé
+284,284,Jackson,Madeleine,Vendeur,"104 Rue Allal Ben Abdellah, Salé",Salé,Rabat-Salé-Kénitra,191114,25174,5308.72,2024-01-01,2028-01-01,7.02,Auto,28765,18.5,8,45,489,En retard,Non payé
+285,285,Simon,Martine,Banquier,"25 Boulevard Zerktouni, Rabat",Rabat,Rabat-Salé-Kénitra,38404,35860,800.08,2024-01-01,2028-01-01,5.29,Professionnel,11820,6.8,5,169,548,En retard,Non payé
+286,286,Renaud,Jean,Artisan,"67 Rue Allal Ben Abdellah, Marrakech",Marrakech,Marrakech-Safi,51354,27073,1069.88,2024-01-01,2028-01-01,8.31,Auto,15310,7.0,2,50,701,En retard,Payé
+287,287,Berger,André,Mécanicien,"78 Avenue Mohammed V, Safi",Safi,Marrakech-Safi,175122,158914,2918.7,2024-01-01,2028-01-01,3.57,Auto,23686,12.3,5,124,572,En retard,Non payé
+288,288,Renaud,Marie,Peintre en bâtiment,"31 Rue Ghandi, Marrakech",Marrakech,Marrakech-Safi,197519,113087,8229.96,2024-01-01,2028-01-01,3.08,Personnel,17012,48.4,2,114,691,En retard,Non payé
+289,289,Hernandez,Marguerite,Plombier,"80 Boulevard Mohammed VI, Oujda",Oujda,L'Oriental,171649,169505,2860.82,2024-01-01,2028-01-01,8.96,Immobilier,28987,9.9,6,139,536,En retard,Non payé
+290,290,Jackson,Catherine,Médecin,"57 Boulevard Zerktouni, Marrakech",Marrakech,Marrakech-Safi,90124,84885,1502.07,2024-01-01,2028-01-01,7.4,Immobilier,5360,28.0,2,6,662,En retard,Payé
+291,291,Moore,Françoise,Consultant,"107 Boulevard Abdelmoumen, Meknès",Meknès,Fès-Meknès,274608,49798,4576.8,2024-01-01,2028-01-01,6.79,Personnel,5332,85.8,0,0,742,En cours,Non payé
+292,292,Lambert,Paul,Consultant,"64 Boulevard Mohammed VI, Safi",Safi,Marrakech-Safi,43977,12447,732.95,2024-01-01,2028-01-01,5.15,Immobilier,25413,2.9,1,109,717,En retard,Payé
+293,293,Lefevre,Marguerite,Architecte,"145 Boulevard Mohammed VI, Tétouan",Tétouan,Tanger-Tétouan-Al Hoceïma,52013,45812,2167.21,2024-01-01,2028-01-01,5.79,Auto,25098,8.6,0,0,775,En cours,Payé
+294,294,Anderson,Monique,Fermier,"39 Boulevard Zerktouni, Tanger",Tanger,Tanger-Tétouan-Al Hoceïma,240461,157778,6679.47,2024-01-01,2028-01-01,8.25,Auto,29977,22.3,8,130,444,En retard,Non payé
+295,295,Garnier,Martine,Comptable,"53 Rue Ghandi, Tétouan",Tétouan,Tanger-Tétouan-Al Hoceïma,104982,36170,2916.17,2024-01-01,2028-01-01,5.09,Professionnel,28283,10.3,1,47,697,En retard,Payé
+296,296,Moreau,Bernard,Agriculteur,"34 Boulevard Abdelmoumen, Tétouan",Tétouan,Tanger-Tétouan-Al Hoceïma,228789,113878,4766.44,2024-01-01,2028-01-01,3.74,Auto,27188,17.5,2,64,672,En retard,Payé
+297,297,Wilson,Bernard,Développeur,"79 Avenue Mohammed V, Tanger",Tanger,Tanger-Tétouan-Al Hoceïma,271577,52332,11315.71,2024-01-01,2028-01-01,8.0,Immobilier,20318,55.7,8,76,462,En retard,Non payé
+298,298,Lambert,Jacques,Peintre en bâtiment,"19 Avenue Mohammed V, El Jadida",El Jadida,Casablanca-Settat,129608,122606,2700.17,2024-01-01,2028-01-01,7.02,Auto,25283,10.7,3,84,667,En retard,Non payé
+299,299,Lefevre,Monique,Développeur,"16 Boulevard Mohammed VI, El Jadida",El Jadida,Casablanca-Settat,296693,239587,8241.47,2024-01-01,2028-01-01,8.38,Auto,7972,103.4,4,153,595,En retard,Non payé
+300,300,Laurent,Sophie,Consultant,"35 Rue Allal Ben Abdellah, Fès",Fès,Fès-Meknès,23834,19413,662.06,2024-01-01,2028-01-01,7.15,Auto,25606,2.6,3,119,666,En retard,Non payé
+301,301,Leroy,Louis,Avocat,"21 Boulevard Abdelmoumen, Meknès",Meknès,Fès-Meknès,117636,4688,4901.5,2024-01-01,2028-01-01,3.85,Immobilier,8875,55.2,6,101,541,En retard,Non payé
+302,302,Vincent,Monique,Médecin,"101 Boulevard Abdelmoumen, Tanger",Tanger,Tanger-Tétouan-Al Hoceïma,64620,58803,1346.25,2024-01-01,2028-01-01,6.63,Auto,13047,10.3,7,178,489,En retard,Non payé
+303,303,Durand,Nathalie,Artisan,"119 Boulevard Abdelmoumen, Tanger",Tanger,Tanger-Tétouan-Al Hoceïma,298104,141841,8280.67,2024-01-01,2028-01-01,7.22,Personnel,26741,31.0,7,84,526,En retard,Non payé
+304,304,Girard,Catherine,Développeur,"118 Boulevard Anfa, Tétouan",Tétouan,Tanger-Tétouan-Al Hoceïma,81590,22158,1359.83,2024-01-01,2028-01-01,7.68,Auto,4026,33.8,5,72,589,En retard,Non payé

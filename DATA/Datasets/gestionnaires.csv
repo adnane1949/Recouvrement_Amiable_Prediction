@@ -1,0 +1,76 @@
+﻿id_gestionnaire,nom,prenom,specialisation,adresse,ville,region,id_responsable
+1,Leroy,Pascal,Telephonique,"140 Boulevard Mohammed VI, Rabat",Rabat,Rabat-Salé-Kénitra,1
+2,Young,Madeleine,Telephonique,"8 Boulevard Mohammed VI, Casablanca",Casablanca,Casablanca-Settat,1
+3,Michel,Bernard,Terrain,"7 Boulevard Abdelmoumen, Kénitra",Kénitra,Rabat-Salé-Kénitra,1
+4,Lefebvre,Laurent,Telephonique,"140 Rue Allal Ben Abdellah, Oujda",Oujda,L'Oriental,1
+5,Hill,Madeleine,Terrain,"72 Boulevard Zerktouni, Marrakech",Marrakech,Marrakech-Safi,2
+6,Michel,Valérie,Terrain,"27 Boulevard Mohammed VI, Marrakech",Marrakech,Marrakech-Safi,2
+7,Moore,Alain,Terrain,"89 Avenue des FAR, Marrakech",Marrakech,Marrakech-Safi,2
+8,Dubois,Isabelle,Terrain,"138 Boulevard Mohammed VI, Meknès",Meknès,Fès-Meknès,2
+9,Moore,Sophie,Telephonique,"76 Boulevard Anfa, Kénitra",Kénitra,Rabat-Salé-Kénitra,2
+10,Garcia,Alain,Telephonique,"72 Rue Ghandi, Agadir",Agadir,Souss-Massa,3
+11,Wright,Jeanne,Telephonique,"95 Boulevard Anfa, Salé",Salé,Rabat-Salé-Kénitra,3
+12,Michel,Nathalie,Telephonique,"19 Boulevard Zerktouni, Fès",Fès,Fès-Meknès,3
+13,Lewis,Isabelle,Telephonique,"42 Rue Ghandi, Tanger",Tanger,Tanger-Tétouan-Al Hoceïma,3
+14,Moore,Monique,Terrain,"143 Avenue Hassan II, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,3
+15,Robert,Christine,Telephonique,"146 Boulevard Anfa, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,4
+16,Michel,Christian,Telephonique,"102 Rue Ghandi, Meknès",Meknès,Fès-Meknès,4
+17,Moreau,Jean-Pierre,Telephonique,"64 Boulevard Abdelmoumen, Salé",Salé,Rabat-Salé-Kénitra,4
+18,Lewis,Jean-Pierre,Telephonique,"150 Rue Allal Ben Abdellah, El Jadida",El Jadida,Casablanca-Settat,4
+19,Young,Suzanne,Terrain,"57 Boulevard Zerktouni, Marrakech",Marrakech,Marrakech-Safi,4
+20,Clark,Simone,Telephonique,"13 Boulevard Mohammed VI, Rabat",Rabat,Rabat-Salé-Kénitra,4
+21,Allen,Marguerite,Telephonique,"65 Boulevard Abdelmoumen, Kénitra",Kénitra,Rabat-Salé-Kénitra,5
+22,Martin,Stéphane,Telephonique,"30 Boulevard Abdelmoumen, El Jadida",El Jadida,Casablanca-Settat,5
+23,Baker,Monique,Terrain,"88 Boulevard Mohammed VI, Safi",Safi,Marrakech-Safi,5
+24,Dubois,Madeleine,Terrain,"117 Avenue Mohammed V, Salé",Salé,Rabat-Salé-Kénitra,5
+25,Green,Isabelle,Telephonique,"129 Boulevard Zerktouni, Fès",Fès,Fès-Meknès,5
+26,Moreau,Jeanne,Terrain,"42 Boulevard Abdelmoumen, Safi",Safi,Marrakech-Safi,6
+27,Nelson,Lucie,Terrain,"1 Boulevard Anfa, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,6
+28,Sanchez,Marie,Telephonique,"93 Avenue des FAR, Rabat",Rabat,Rabat-Salé-Kénitra,6
+29,David,Isabelle,Terrain,"146 Boulevard Mohammed VI, Tanger",Tanger,Tanger-Tétouan-Al Hoceïma,6
+30,Leroy,Nathalie,Terrain,"141 Boulevard Zerktouni, Meknès",Meknès,Fès-Meknès,7
+31,Rodriguez,Lucie,Terrain,"109 Avenue Hassan II, Nador",Nador,L'Oriental,7
+32,Lewis,Valérie,Terrain,"52 Avenue des FAR, El Jadida",El Jadida,Casablanca-Settat,7
+33,Jackson,Nathalie,Telephonique,"96 Rue Ghandi, Oujda",Oujda,L'Oriental,7
+34,Young,Bernard,Telephonique,"19 Avenue Mohammed V, Casablanca",Casablanca,Casablanca-Settat,8
+35,Garcia,Michel,Telephonique,"9 Boulevard Anfa, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,8
+36,Robert,Marcel,Telephonique,"72 Rue Ghandi, Tanger",Tanger,Tanger-Tétouan-Al Hoceïma,8
+37,Michel,Pierre,Telephonique,"147 Rue Ghandi, Salé",Salé,Rabat-Salé-Kénitra,8
+38,David,Robert,Terrain,"105 Avenue Hassan II, Safi",Safi,Marrakech-Safi,8
+39,Petit,Alain,Telephonique,"111 Boulevard Anfa, Oujda",Oujda,L'Oriental,8
+40,Perez,Daniel,Telephonique,"14 Boulevard Mohammed VI, Meknès",Meknès,Fès-Meknès,8
+41,Lefebvre,Louis,Terrain,"115 Boulevard Zerktouni, Kénitra",Kénitra,Rabat-Salé-Kénitra,9
+42,Perez,Françoise,Telephonique,"119 Avenue Hassan II, Fès",Fès,Fès-Meknès,9
+43,Robert,Henri,Terrain,"141 Boulevard Mohammed VI, Safi",Safi,Marrakech-Safi,9
+44,Thomas,Christian,Telephonique,"4 Boulevard Mohammed VI, Kénitra",Kénitra,Rabat-Salé-Kénitra,9
+45,Jackson,Isabelle,Telephonique,"98 Avenue Mohammed V, Salé",Salé,Rabat-Salé-Kénitra,10
+46,Moore,Jean-Pierre,Terrain,"117 Avenue des FAR, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,10
+47,Perez,Caroline,Terrain,"143 Rue Ghandi, El Jadida",El Jadida,Casablanca-Settat,10
+48,Moreau,Louis,Telephonique,"56 Avenue Mohammed V, Fès",Fès,Fès-Meknès,10
+49,Young,Pascal,Telephonique,"16 Boulevard Anfa, Kénitra",Kénitra,Rabat-Salé-Kénitra,10
+50,Thomas,Marcel,Telephonique,"48 Boulevard Mohammed VI, Rabat",Rabat,Rabat-Salé-Kénitra,11
+51,Allen,Michel,Terrain,"61 Rue Allal Ben Abdellah, Oujda",Oujda,L'Oriental,11
+52,Durand,Jean-Paul,Telephonique,"149 Avenue Mohammed V, Tanger",Tanger,Tanger-Tétouan-Al Hoceïma,11
+53,King,Sophie,Telephonique,"150 Boulevard Abdelmoumen, Agadir",Agadir,Souss-Massa,11
+54,Leroy,Nathalie,Terrain,"77 Rue Ghandi, Oujda",Oujda,L'Oriental,12
+55,Gonzalez,Valérie,Telephonique,"19 Avenue Mohammed V, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,12
+56,White,Patrick,Telephonique,"26 Boulevard Mohammed VI, Tétouan",Tétouan,Tanger-Tétouan-Al Hoceïma,12
+57,Lewis,Christine,Telephonique,"68 Boulevard Zerktouni, Kénitra",Kénitra,Rabat-Salé-Kénitra,12
+58,Anderson,Michel,Terrain,"63 Boulevard Anfa, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,12
+59,Hernandez,André,Terrain,"140 Avenue des FAR, Meknès",Meknès,Fès-Meknès,12
+60,Leroy,Jean-Pierre,Terrain,"28 Boulevard Abdelmoumen, Rabat",Rabat,Rabat-Salé-Kénitra,13
+61,Moreau,Monique,Terrain,"54 Boulevard Anfa, Fès",Fès,Fès-Meknès,13
+62,Michel,Stéphane,Telephonique,"68 Boulevard Abdelmoumen, Oujda",Oujda,L'Oriental,13
+63,Sanchez,Jean-Pierre,Terrain,"14 Boulevard Mohammed VI, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,13
+64,Simon,Pascal,Telephonique,"142 Rue Allal Ben Abdellah, Meknès",Meknès,Fès-Meknès,14
+65,Robinson,Jean,Telephonique,"20 Boulevard Zerktouni, Rabat",Rabat,Rabat-Salé-Kénitra,14
+66,Lewis,Pierre,Telephonique,"95 Boulevard Abdelmoumen, Nador",Nador,L'Oriental,14
+67,Moreau,Madeleine,Terrain,"11 Avenue des FAR, Salé",Salé,Rabat-Salé-Kénitra,14
+68,Taylor,Pierre,Terrain,"92 Avenue Hassan II, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,14
+69,Nguyen,Nicole,Telephonique,"27 Boulevard Anfa, Oujda",Oujda,L'Oriental,14
+70,Nelson,Emilie,Terrain,"105 Boulevard Zerktouni, Béni Mellal",Béni Mellal,Béni Mellal-Khénifra,14
+71,Adams,Martine,Telephonique,"106 Avenue Hassan II, Safi",Safi,Marrakech-Safi,15
+72,Martinez,André,Telephonique,"28 Rue Allal Ben Abdellah, Safi",Safi,Marrakech-Safi,15
+73,Dubois,Robert,Terrain,"52 Rue Ghandi, Tanger",Tanger,Tanger-Tétouan-Al Hoceïma,15
+74,Anderson,Véronique,Telephonique,"59 Avenue Hassan II, Nador",Nador,L'Oriental,15
+75,Bernard,Nathalie,Terrain,"103 Boulevard Anfa, Tanger",Tanger,Tanger-Tétouan-Al Hoceïma,15
